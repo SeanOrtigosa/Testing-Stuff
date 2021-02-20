@@ -6,9 +6,9 @@ description: >-
 
 # Bennett
 
-## ![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/72aa4f82a3e92dbf44bd8028c84ceae36012d1dc/.gitbook/assets/element_pyro.png) Bennett
+## ![](.gitbook/assets/element_pyro.png) Bennett
 
-![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/72aa4f82a3e92dbf44bd8028c84ceae36012d1dc/.gitbook/assets/bennett.png)
+![](.gitbook/assets/bennett.png)
 
 ## **Attacks**
 
