@@ -19,19 +19,22 @@ Perform up to 6 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit |  |  |  |
-| 2-Hit |  |  |  |
-| 3-Hit |  |  |  |
-| 4-Hit |  |  |  |
-| 5-Hit |  |  |  |
-| 6-Hit |  |  |  |
+| 1-Hit | 60% |  |  |
+| 2-Hit | 67.25% |  |  |
+| 3-Hit | 80.5% |  |  |
+| 4-Hit | 82.88% |  |  |
+| 5-Hit | 88.5% |  |  |
+| 6-Hit | 105.75% |  |  |
 
 **Charged Attack**  
-Consumes 20 stamina to unleash 2 consecutive strikes.
+Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply the Riptide status.
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| N1C | 234.25 |  |  |
+| String | Talent 6% | Frames | MV/s | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | **63.75%** |  |  |  |
+| Fully Charged | **173.6%** |  |  |  |
+| Riptide Flash |  |  |  |  |
+| Riptide Burst |  |  |  |  |
 
 Enemies struck by Bennett's charged attack will be staggered or launched.
 
