@@ -65,6 +65,12 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
   * The longer Tartaglia stays in Melee Stance, the longer the CD.
   * If the skill ended automatically after 30s, the CD is even longer.
 
+| Melee Stance | Time |
+| :--- | :--- |
+| Max Duration | 30s |
+| Preemptive CD | 6s ~ 36s |
+| Max CD | 45s |
+
 **Normal Attack**   
 Perform up to 6 consecutive Hydro strikes.
 
