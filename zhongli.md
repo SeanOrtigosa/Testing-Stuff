@@ -104,22 +104,19 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 {% tab title="Passive" %}
 ### Master of Weaponry
 
-When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%
+Increases your own party member’s Normal Attack Level by 1.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-### Rekindle
+### Never Ending
 
-Decrease passion overload’s cooldown by 20%.
+Extends Riptide duration by 8s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Fearnaught
+### Sword of Torrents
 
-Within the Inspiration Field created by Fantastic Voyage, Passion Overload takes the following effects:
-
-* CD is reduced by 50%
-* Bennett will not be launched by the explosion of Passion Overload: Charge Level 2.
+When Tartaglia is in Foul Legacy: Ragin Tide’s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents.
 {% endtab %}
 {% endtabs %}
 
@@ -127,31 +124,30 @@ Within the Inspiration Field created by Fantastic Voyage, Passion Overload takes
 
 {% tabs %}
 {% tab title="C1" %}
-### Grand Expectation
+### Foul Legacy: Tide Withholder
 
-Fantastic Voyage’s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett’s Base ATK.
+Decreases the CD of Foul Legacy: Raging Tide by 20%
 {% endtab %}
 
 {% tab title="C2" %}
-### Impasse Conqueror
+### Foul Legacy: Understream
 
-When Bennett’s HP falls below 70%, his Energy Recharge is increased by 30%.
+When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy
 {% endtab %}
 
 {% tab title="C3" %}
-### Unstoppable Fervor
+### Abyssal Mayhem: Vortex of Turmoil
 
-Increases the level of Passion Overload by 3.
+Increases the Level of Foul Legacy: Ragin Tide by 3.  
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### Unexpected Odyssey
+### **Abyssal Mayhem: Hydrospout**
 
-Using a Normal Attack when executing the second attack of Passion Overload’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG.
+If Tartaglia is in Foul Legacy Raging Tide’s Melee Stance: Triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.
 
-| Attack | Talent 6% | Talent 9% | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 149.6% + 163.2% + 220.3% |  |
+* This constellation effect is not subject to the ICD’s that would typically apply to these two effects, nor do they have any effect on those regular time intervals.
 {% endtab %}
 
 {% tab title="C5" %}
