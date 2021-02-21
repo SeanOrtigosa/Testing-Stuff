@@ -151,19 +151,16 @@ If Tartaglia is in Foul Legacy Raging Tide’s Melee Stance: Triggers Riptide Sl
 {% endtab %}
 
 {% tab title="C5" %}
-### True Explorer
+### Havoc: Formless Blade
 
-Increases the Level of Fantastic Voyage by 3.
+Increases the Level of Havoc: Obliteration by 3.  
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Fire Ventures with Me**
+### Havoc: Annihilation
 
-Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radius gain a 15% Pyro DMG Bonus and their weapons are infused with Pyro.
-
-* Pyro Infusion lasts 2 seconds upon leaving **Inspiration Field**.
-* The Pyro DMG bonus will apply to the Fantastic Voyage damage.
-* Pyro infused autos have 1U worth of Pyro applcation.
+When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset. This effect will only take place once Tartaglia returns to his Ranged Stance.
 {% endtab %}
 {% endtabs %}
 
