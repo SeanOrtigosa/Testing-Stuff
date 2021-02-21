@@ -51,27 +51,41 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 | High Plunge DMG | 232.09% |
 {% endtab %}
 
-{% tab title="Passion Overload" %}
-**Press**  
-Bennett strikes once, dealing Pyro DMG.
+{% tab title="Foul Legacy: Raging Tide" %}
+Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding opponents and entering Melee Stance.
 
-**Hold \(Short\)**
+| Type | Talent 6% | GU |
+| :--- | :--- | :--- |
+| Stance Change DMG | 100.8% | 2U |
 
-* Level 1: Charges up to strike twice dealing Pyro DMG and launching enemies.
-* Level 2: Charges up to strike two times dealing Pyro DMG, with the last attack triggering an explosion that knocks away Bennett and the enemy.
+* **Melee Stance:**
+  * Converts Tartaglia’s Normal and Charged Attacks into Hydro DMG.
+  * Cannot be overridden by any other elemental infusion.
+  * After 30s, or when it is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this skill will enter CD.
+  * The longer Tartaglia stays in Melee Stance, the longer the CD.
+  * If the skill ended automatically after 30s, the CD is even longer.
 
-| Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E Press | 192.64% | 5s | 2U | 2 |  |  |
-| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1U | 3 |  |  |
-| Level 2 | 123.2% + 134.4% | 10s | 2 x 1U | 3 |  |  |
-| Explosion |  |  | 1U |  |  |  |
+**Normal Attack**   
+Perform up to 6 consecutive Hydro strikes.
 
-* Max hold duration is x seconds, after which Bennett will use a Level 2 Passion Overload by default. 
-* Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
+| String | Talent 6% | Frames | MV/s | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 56.5% |  |  | 1U |
+| 2-Hit | 60.5% |  |  | 1U |
+| 3-Hit | 81.88% |  |  | 1U |
+| 4-Hit | 87.13% |  |  | 1U |
+| 5-Hit | 80.38% |  |  | 1U |
+| 6-Hit | 51.5% + 54.75% |  |  | 1U |
+
+**Charged Attack**  
+Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
+
+| String | Talent 6% |  |
+| :--- | :--- | :--- |
+| N1C |  |  |
 {% endtab %}
 
-{% tab title="Fantastic Voyage" %}
+{% tab title="Havoc: Obliteration" %}
 Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro DMG.
 
 **Inspiration Field**
