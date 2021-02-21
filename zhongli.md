@@ -107,7 +107,7 @@ Performs a different attack depending on the stance in which it is cast.
 
 | Effect | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| DMG | **529.76%** |  |  | 2U |
+| DMG | 529.76% |  |  | 2U |
 | Energy Cost | 60 |  |  |  |
 | Energy Refund | 20 |  |  |  |
 | CD | 15s |  |  |  |
