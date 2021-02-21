@@ -166,9 +166,9 @@ When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging 
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/bennett/)
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bennett)
-* [**Bennett Mains Discord**](https://discord.gg/qrjeEyejsd)
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/tartaglia/)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Tartaglia)
+* [**Childe Mains Discord**](https://discord.gg/Childe)
 
 **Tags:** [Field Buffs](https://library.keqingmains.com/mechanics/combat/field-buffs), [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
