@@ -29,16 +29,20 @@ Perform up to 6 consecutive shots with a bow.
 **Charged Attack**  
 Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply the Riptide status.
 
+* **Riptide Flash:** Hitting an opponent affected by Riptide with a fully charged aimed shot deals consecutive bouts of AoE DMG. Can occur once every 0.7s.
+* **Riptide Burst:** Defeating an opponent affected by riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
+
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | **63.75%** |  |  |  |
-| Fully Charged | **173.6%** |  |  |  |
-| Riptide Flash |  |  |  |  |
-| Riptide Burst |  |  |  |  |
+| Aimed Shot | 63.75% |  |  | ~ |
+| Fully Charged | 173.6% |  |  | 1U |
+| Riptide Flash | 17.63% \* 3  |  |  | 1U |
+| Riptide Burst | 86.8% |  |  | 2U |
 
-Enemies struck by Bennett's charged attack will be staggered or launched.
+**Plunge**  
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG.
 
-**Plunge**
+* When Tartaglia is in Foul Legacy: Raging Tide’s Melee Stance, he cannot perform a plunge attack.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -98,7 +102,7 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 
 {% tabs %}
 {% tab title="Passive" %}
-### It should be safe...
+### Master of Weaponry
 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%
 {% endtab %}
