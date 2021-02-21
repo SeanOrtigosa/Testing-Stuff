@@ -97,29 +97,35 @@ Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide 
 {% endtab %}
 
 {% tab title="Havoc: Obliteration" %}
-Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro DMG.
+Performs a different attack depending on the stance in which it is cast.
 
-**Inspiration Field**
+**Ranged Stance: Flash of Havoc**
 
-* If the health of a character within the AoE of **Inspiration Field** is less than or equal to 70%, their HP will continuously regenerate based on Bennett’s max HP. 
-* However, if the health of the character is greater than 70%, gain an ATK bonus based on Bennett’s base ATK.
-* Continuously imbues characters within the AoE with Pyro.
+* Fire a Hydro-imbued magic arrow, dealing AoE Hydro DMG.
+* Apply Riptide status to enemies hit.
+* Returns 20 Energy after use.
 
-| Effect | Talent 6% / Data |
-| :--- | :--- |
-| DMG | 325.92% |
-| HP Regeneration | 8.4% Bennett Max HP + 914 |
-| ATK Bonus Ratio | 78.4% Bennett **Base ATK** |
-| Duration | 12s |
-| Cooldown | 15s \(non-scaling\) |
-| Energy Cost | 60 |
-| GU | 2U |
-| Imbue | 1U |
-| Frames |  |
+| Effect | Talent 6% | Frames | MV/s | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| DMG | **529.76%** |  |  | 2U |
+| Energy Cost | 60 |  |  |  |
+| Energy Refund | 20 |  |  |  |
+| CD | 15s |  |  |  |
 
-* Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK bonus.
-* **Inspiration Field** will apply the ATK Bonus and **C6: Fire Ventures with Me** will also apply the Pyro DMG bonus immediately on cast.
-* The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack, including buffs like Noblesse Oblige \(2\).
+**Melee Stance: Light of Obliteration**
+
+* Performs a slash with a large AoE, dealing massive Hydro DMG.
+* Triggers Riptide Blast:
+  * Clears Riptide status.
+  * Triggers a Hydro explosion that deals AoE Hydro DMG.
+  * DMG Dealt is considered Elemental Burst Damage.
+
+| Effect | Talent 6% | Frames | MV/s | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| DMG | 649.6% |  |  | 2U |
+| Riptide Blast | 168% |  |  | 2U |
+| Energy Cost | 60 |  |  |  |
+| CD | 15s |  |  |  |
 {% endtab %}
 {% endtabs %}
 
@@ -195,7 +201,7 @@ When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Tartaglia)
 * [**Childe Mains Discord**](https://discord.gg/Childe)
 
-**Tags:** [Field Buffs](https://library.keqingmains.com/mechanics/combat/field-buffs), [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
+**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
 
