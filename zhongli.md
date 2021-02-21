@@ -1,29 +1,30 @@
 ---
 description: >-
-  A good-natured adventurer from Mondstadt who's unfortunately extremely
-  unlucky.
+  No. 11 of The Harbingers, also known as “Childe.” His name is highly feared on
+  the battlefield.
 ---
 
-# Bennett
+# Tartaglia
 
-## ![](../../.gitbook/assets/element_pyro.png) Bennett
+## ![](.gitbook/assets/element_hydro.png) Tartaglia
 
-![](../../.gitbook/assets/bennett.png)
+![](.gitbook/assets/tartaglia.png)
 
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Strike of Fortune" %}
+{% tab title="Cutting Torrent" %}
 **Normal Attacks**  
-Bennett performs up to 5 consecutive attacks.
+Perform up to 6 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.75% |  |  |
-| 2-Hit | 62.13% |  |  |
-| 3-Hit | 79.38% |  |  |
-| 4-Hit | 86.75% |  |  |
-| 5-Hit | 104.5% |  |  |
+| 1-Hit |  |  |  |
+| 2-Hit |  |  |  |
+| 3-Hit |  |  |  |
+| 4-Hit |  |  |  |
+| 5-Hit |  |  |  |
+| 6-Hit |  |  |  |
 
 **Charged Attack**  
 Consumes 20 stamina to unleash 2 consecutive strikes.
@@ -172,6 +173,4 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 **Tags:** [Field Buffs](https://library.keqingmains.com/mechanics/combat/field-buffs), [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
-
-{% page-ref page="../../evidence/characters/pyro/bennett.md" %}
 

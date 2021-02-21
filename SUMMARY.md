@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Zhongli](zhongli.md)
+* [Tartaglia](zhongli.md)
 * [Bennett](bennett.md)
 
