@@ -80,9 +80,20 @@ Perform up to 6 consecutive Hydro strikes.
 **Charged Attack**  
 Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
 
-| String | Talent 6% |  |
+| String | Talent 6% | Frames | MV/s | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| N1C | 248.62% |  |  | 1U |
+
+**Riptide Slash**  
+Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash, dealing AoE Hydro DMG.
+
+* This DMG is considered as Elemental Skill DMG.
+* This DMG can only occur once every 1.5s.
+* Each proc of this effect gives 1 Hydro Particle.
+
+| Type | Talent 6% | GU |
 | :--- | :--- | :--- |
-| N1C |  |  |
+| Riptide Slash | 86.5% | 1U |
 {% endtab %}
 
 {% tab title="Havoc: Obliteration" %}
