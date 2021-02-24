@@ -15,7 +15,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Ripple of Fate" %}
-N**ormal Attack**  
+**Normal Attack**  
 Perform up to 4 water splash attacks that deal Hydro DMG.
 
 | String | Talent 6% | Frames | MV/s |
