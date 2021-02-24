@@ -14,42 +14,34 @@ description: >-
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Cutting Torrent" %}
-**Normal Attacks**  
-Perform up to 6 consecutive shots with a bow.
+{% tab title="Ripple of Fate" %}
+N**ormal Attack**  
+Perform up to 4 water splash attacks that deal Hydro DMG.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 60% |  |  |
-| 2-Hit | 67.25% |  |  |
-| 3-Hit | 80.5% |  |  |
-| 4-Hit | 82.88% |  |  |
-| 5-Hit | 88.5% |  |  |
-| 6-Hit | 105.75% |  |  |
+| 1-Hit | 52.64% |  |  |
+| 2-Hit | 50.4% |  |  |
+| 3-Hit | 62.72% |  |  |
+| 4-Hit | 78.62% |  |  |
+| GU | 1A |  |  |
 
 **Charged Attack**  
-Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply the Riptide status.
+Consume 50 Stamina to deal AoE Hydro damage after a short casting time.
 
-* **Riptide Flash:** Hitting an opponent affected by Riptide with a fully charged aimed shot deals consecutive bouts of AoE DMG. Can occur once every 0.7s.
-* **Riptide Burst:** Defeating an opponent affected by riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
+| String | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| Charged Attack | 209.61% |  |  |
+| GU | 1A |  |  |
 
-| String | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  | ~ |
-| Fully Charged | 173.6% |  |  | 1U |
-| Riptide Flash | 17.63% \* 3 |  |  | 1U |
-| Riptide Burst | 86.8% |  |  | 2U |
+**Plunge Attack**  
+Plunge from mid-air to the ground, dealing AoE Hydro DMG.
 
-**Plunge**  
-Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG.
-
-* When Tartaglia is in Foul Legacy: Raging Tide’s Melee Stance, he cannot perform a plunge attack.
-
-| Damage Type | Talent 6% |
-| :--- | :--- |
-| Plunge Impact | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Type | Talent 6% | GU |
+| :--- | :--- | :--- |
+| Plunge DMG | 82.6% | 1A |
+| Low Plunge DMG | 165.1% | 1A |
+| High Plunge DMG | 206.3% | 1A |
 {% endtab %}
 
 {% tab title="Foul Legacy: Raging Tide" %}
