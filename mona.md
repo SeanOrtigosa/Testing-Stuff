@@ -75,6 +75,7 @@ Mona cloaks herself within the water’s flow, consuming Stamina to move rapidly
 | :--- | :--- |
 | Activation Stamina Cost | 10 |
 | Stamina Drain | 15/s |
+| Hydro Application GU | 1A |
 {% endtab %}
 
 {% tab title="Stellaris Phantasm" %}
