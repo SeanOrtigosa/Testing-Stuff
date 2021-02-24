@@ -177,9 +177,9 @@ Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her 
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/tartaglia/)
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Tartaglia)
-* [**Childe Mains Discord**](https://discord.gg/Childe)
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/mona/)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Mona)
+* [**Mona Mains Discord**](https://discord.gg/uxVEDkTyRe)\*\*\*\*
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
