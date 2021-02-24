@@ -99,6 +99,7 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 | Energy Cost | 60 |  |  |  |
 
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.
+* **C1's Reaction DMG Bonus** is not applied to the damage calculation.
 * **Omen** DMG Bonus is applied to the damage calculation.
 * **Omen** DMG Bonus is classified as **DamageBonus**.
 * See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#base-damage)
