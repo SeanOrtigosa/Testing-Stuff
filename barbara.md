@@ -8,130 +8,70 @@ description: >-
 
 ## ![](.gitbook/assets/element_hydro.png) Barbara
 
-![](.gitbook/assets/tartaglia.png)
+![](.gitbook/assets/barbara.png)
 
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Cutting Torrent" %}
-**Normal Attacks**  
-Perform up to 6 consecutive shots with a bow.
-
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 60% |  |  |
-| 2-Hit | 67.25% |  |  |
-| 3-Hit | 80.5% |  |  |
-| 4-Hit | 82.88% |  |  |
-| 5-Hit | 88.5% |  |  |
-| 6-Hit | 105.75% |  |  |
-
-**Charged Attack**  
-Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply the Riptide status.
-
-* **Riptide Flash:** Hitting an opponent affected by Riptide with a fully charged aimed shot deals consecutive bouts of AoE DMG. Can occur once every 0.7s.
-* **Riptide Burst:** Defeating an opponent affected by riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
-
-| String | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  | ~ |
-| Fully Charged | 173.6% |  |  | 1U |
-| Riptide Flash | 17.63% \* 3 |  |  | 1U |
-| Riptide Burst | 86.8% |  |  | 2U |
-
-**Plunge**  
-Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG.
-
-* When Tartaglia is in Foul Legacy: Raging Tide’s Melee Stance, he cannot perform a plunge attack.
-
-| Damage Type | Talent 6% |
-| :--- | :--- |
-| Plunge Impact | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
-{% endtab %}
-
-{% tab title="Foul Legacy: Raging Tide" %}
-Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding opponents and entering Melee Stance.
-
-| Type | Talent 6% | GU |
-| :--- | :--- | :--- |
-| Stance Change DMG | 100.8% | 2U |
-
-* **Melee Stance:**
-  * Converts Tartaglia’s Normal and Charged Attacks into Hydro DMG.
-  * Cannot be overridden by any other elemental infusion.
-  * After 30s, or when it is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this skill will enter CD.
-  * The longer Tartaglia stays in Melee Stance, the longer the CD.
-  * If the skill ended automatically after 30s, the CD is even longer.
-
-| Melee Stance | Time |
-| :--- | :--- |
-| Max Duration | 30s |
-| Preemptive CD | 6s ~ 36s |
-| Max CD | 45s |
-
+{% tab title="Whisper of Water" %}
 **Normal Attack**  
-Perform up to 6 consecutive Hydro strikes.
+Perform up to 4 water splash attacks that deal Hydro DMG.
 
-| String | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 56.5% |  |  | 1U |
-| 2-Hit | 60.5% |  |  | 1U |
-| 3-Hit | 81.88% |  |  | 1U |
-| 4-Hit | 87.13% |  |  | 1U |
-| 5-Hit | 80.38% |  |  | 1U |
-| 6-Hit | 51.5% + 54.75% |  |  | 1U |
+| **String** | **Talent 6%** | **Frames** | **MV/s** |
+| :--- | :--- | :--- | :--- |
+| 1-Hit | 52.98% |  |  |
+| 2-Hit | 49.73% |  |  |
+| 3-Hit | 57.46% |  |  |
+| 4-Hit | 77.28% |  |  |
+| GU | 1A |  |  |
 
 **Charged Attack**  
-Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
+Consume 50 Stamina to deal AoE Hydro DMG.
 
-| String | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| N1C | 248.62% |  |  | 1U |
+| **String** | **Talent 6%** | **Frames** | **MV/s** |
+| :--- | :--- | :--- | :--- |
+| Charged Attack | 232.74% |  |  |
+| GU | 1A |  |  |
 
-**Riptide Slash**  
-Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash, dealing AoE Hydro DMG.
+**Plunge Attack**  
+Plunge from mid-air to deal AoE Hydro DMG.
 
-* This DMG is considered as Elemental Skill DMG.
-* This DMG can only occur once every 1.5s.
-* Each proc of this effect gives 1 Hydro Particle.
-
-| Type | Talent 6% | GU |
+| **Type** | **Talent 6%** | **GU** |
 | :--- | :--- | :--- |
-| Riptide Slash | 86.5% | 1U |
+| Plunge DMG | 82.6% | 1A |
+| Low Plunge DMG | 165.17% | 1A |
+| High Plunge DMG | 206.3% | 1A |
 {% endtab %}
 
-{% tab title="Havoc: Obliteration" %}
-Performs a different attack depending on the stance in which it is cast.
+{% tab title="Let the Show Begin♪" %}
+Summon a **Melody Loop**, dealing Hydro DMG to surrounding opponents and applying the Wet Status to them.
 
-**Ranged Stance: Flash of Havoc**
+**Melody Loop:**
 
-* Fire a Hydro-imbued magic arrow, dealing AoE Hydro DMG.
-* Apply Riptide status to enemies hit.
-* Returns 20 Energy after use.
+* On hit, Barbara’s Normal Attacks heal your own party members and nearby teammates for a certain amount. Barbara’s Charged Attack generates 4 times the amount of healing.
+* Periodically regenerates your own active character’s HP.
+* Applies brief periodic Hydro aura to the active character.
+* Applies Hydro aura to opponents who come in contact.
 
-| Effect | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| DMG | 529.76% |  |  | 2U |
-| Energy Cost | 60 |  |  |  |
-| Energy Refund | 20 |  |  |  |
-| CD | 15s |  |  |  |
+| **Effect** | **Talent 6%** |
+| :--- | :--- |
+| HP Regen/hit | 1.05% Max HP + 114 |
+| Continuous Regen | 5.6% Max HP + 610 |
+| Droplet DMG | 81.76% |
+| GU | 1A |
+| Duration | 15s |
+| Cooldown | 32s |
+{% endtab %}
 
-**Melee Stance: Light of Obliteration**
+{% tab title="Shining Miracle♪" %}
+Heals your own party members and nearby teammates for a large amount of HP.  
 
-* Performs a slash with a large AoE, dealing massive Hydro DMG.
-* Triggers Riptide Blast:
-  * Clears Riptide status.
-  * Triggers a Hydro explosion that deals AoE Hydro DMG.
-  * DMG Dealt is considered Elemental Burst Damage.
 
-| Effect | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| DMG | 649.6% |  |  | 2U |
-| Riptide Blast | 168% |  |  | 2U |
-| Energy Cost | 60 |  |  |  |
-| CD | 15s |  |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| HP Regen | 24.64% Max HP + 2683 |
+| Cooldown | 20s |
+| Energy Cost | 80 |
 {% endtab %}
 {% endtabs %}
 
