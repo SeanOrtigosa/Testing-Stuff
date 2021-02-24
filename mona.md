@@ -44,87 +44,59 @@ Plunge from mid-air to the ground, dealing AoE Hydro DMG.
 | High Plunge DMG | 206.3% | 1A |
 {% endtab %}
 
-{% tab title="Foul Legacy: Raging Tide" %}
-Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding opponents and entering Melee Stance.
+{% tab title="Mirror Reflection of Doom" %}
+**Press**  
+Creates an illusory **Phantom of Fate** with the following special properties:
 
-| Type | Talent 6% | GU |
-| :--- | :--- | :--- |
-| Stance Change DMG | 100.8% | 2U |
+* Continuously taunts nearby opponents
+* Continuously deal Hydro DMG to nearby opponents.
+* When its duration expires, the **Phantom** explodes, dealing AoE Hydro DMG.
 
-* **Melee Stance:**
-  * Converts Tartaglia’s Normal and Charged Attacks into Hydro DMG.
-  * Cannot be overridden by any other elemental infusion.
-  * After 30s, or when it is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this skill will enter CD.
-  * The longer Tartaglia stays in Melee Stance, the longer the CD.
-  * If the skill ended automatically after 30s, the CD is even longer.
+**Hold**  
+Mona dashes backwards before placing a Phantom of Fate down.
 
-| Melee Stance | Time |
-| :--- | :--- |
-| Max Duration | 30s |
-| Preemptive CD | 6s ~ 36s |
-| Max CD | 45s |
+* Only one **Phantom** created by **Mirror Reflection of Doom** can exist at any time.
 
-**Normal Attack**  
-Perform up to 6 consecutive Hydro strikes.
-
-| String | Talent 6% | Frames | MV/s | GU |
+| **Type** | **Talent 6%** | Frames | MV/s | **GU** |
 | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 56.5% |  |  | 1U |
-| 2-Hit | 60.5% |  |  | 1U |
-| 3-Hit | 81.88% |  |  | 1U |
-| 4-Hit | 87.13% |  |  | 1U |
-| 5-Hit | 80.38% |  |  | 1U |
-| 6-Hit | 51.5% + 54.75% |  |  | 1U |
-
-**Charged Attack**  
-Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
-
-| String | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| N1C | 248.62% |  |  | 1U |
-
-**Riptide Slash**  
-Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash, dealing AoE Hydro DMG.
-
-* This DMG is considered as Elemental Skill DMG.
-* This DMG can only occur once every 1.5s.
-* Each proc of this effect gives 1 Hydro Particle.
-
-| Type | Talent 6% | GU |
-| :--- | :--- | :--- |
-| Riptide Slash | 86.5% | 1U |
+| DoT | 44.8% |  |  | 1A |
+| Explosion DMG | 185.92% |  |  | 1A |
+| CD | 12s |  |  |  |
 {% endtab %}
 
-{% tab title="Havoc: Obliteration" %}
-Performs a different attack depending on the stance in which it is cast.
+{% tab title="Illusory Torrent" %}
+**Alternate Sprint**  
+Mona cloaks herself within the water’s flow, consuming Stamina to move rapidly.
 
-**Ranged Stance: Flash of Havoc**
+* When under the effect of **Illusory Torrent**, Mona can sprint on water.
+* Applies Hydro aura to nearby opponents when she reappears.
 
-* Fire a Hydro-imbued magic arrow, dealing AoE Hydro DMG.
-* Apply Riptide status to enemies hit.
-* Returns 20 Energy after use.
+| **Effect** | **Values** |
+| :--- | :--- |
+| Activation Stamina Cost | 10 |
+| Stamina Drain | 15/s |
+{% endtab %}
 
-| Effect | Talent 6% | Frames | MV/s | GU |
+{% tab title="Stellaris Phantasm" %}
+Mona summons the sparkling waves creating a reflection of the starry sky, applying the **Illusory Bubble** status to opponents in a large AoE.
+
+**Illusory Bubble**  
+Traps opponents inside a pocket of destiny and also makes them Wet. Renders weaker opponents immobile. When an opponent affected by **Illusory Bubble** sustains DMG, it has the following effects:
+
+* Applies an **Omen** to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.
+* Removes the **Illusory Bubble** dealing Hydro DMG in the process.
+
+| **Effect** | **Talent 6%** | **Frames** | **MV/s** | **GU** |
 | :--- | :--- | :--- | :--- | :--- |
-| DMG | 529.76% |  |  | 2U |
-| Energy Cost | 60 |  |  |  |
-| Energy Refund | 20 |  |  |  |
+| Bubble Duration | 8s |  |  | 1A |
+| Bubble DMG | 619.39% |  |  | 2B |
+| Omen DMG Bonus | 52% |  |  |  |
+| Omen Duration | 4.5s |  |  |  |
 | CD | 15s |  |  |  |
-
-**Melee Stance: Light of Obliteration**
-
-* Performs a slash with a large AoE, dealing massive Hydro DMG.
-* Triggers Riptide Blast:
-  * Clears Riptide status.
-  * Triggers a Hydro explosion that deals AoE Hydro DMG.
-  * DMG Dealt is considered Elemental Burst Damage.
-
-| Effect | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| DMG | 649.6% |  |  | 2U |
-| Riptide Blast | 168% |  |  | 2U |
 | Energy Cost | 60 |  |  |  |
-| CD | 15s |  |  |  |
+
+* **Omen** DMG Bonus is classified as DamageBonus%.
+* See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#base-damage)
 {% endtab %}
 {% endtabs %}
 
