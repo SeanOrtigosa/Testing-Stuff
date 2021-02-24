@@ -61,6 +61,8 @@ Summon a **Melody Loop**, dealing Hydro DMG to surrounding opponents and applyin
 | GU | 1A |
 | Duration | 15s |
 | Cooldown | 32s |
+
+* Cast time can be reduced by performing a swap cancel.
 {% endtab %}
 
 {% tab title="Shining Miracle♪" %}
