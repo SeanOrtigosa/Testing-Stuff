@@ -7,7 +7,7 @@ Added on 5/12/2020
 
 **Finding:**
 
-Although C2 Lunar Chain reads that the Charged Attack will automatically follow the Normal Attack, the Charged Attack is too slow in proccing damage and so by the time the damage registers, the Hydro Normal Attack  already removes \(and vaporizes\) the pyro status on the enemy.
+Although **C2 Lunar Chain** reads that the Charged Attack will automatically follow the Normal Attack, the Charged Attack is too slow in proccing damage and so by the time the damage registers, the Hydro Normal Attack already removes \(and vaporizes\) the pyro status on the enemy.
 
 **Evidence:**
 
@@ -24,7 +24,7 @@ Added on 5/12/2020
 
 **Finding:**
 
-Mona’s Bubble burst damage is determined at the time the bubble is actually triggered, rather than ‘snapshotting’ on immediate cast.
+Mona’s Bubble burst damage is determined at the time the bubble is actually triggered, rather than ‘snapshotting’ on the immediate cast.
 
 **Evidence:**
 
@@ -40,7 +40,7 @@ For example, in the perfect combo, the ATK buff provided by Bennett’s Elementa
 During this time, you can burst the bubble knowing that it will do more damage based on the extra ATK from Bennett's ult.  
 However, if you switch out for too long, Mona will lose the ATK buff and the bubble burst will not benefit from the ATK buff.
 
-## **How many elemental \(hydro\) particles does Mona’s Elemental Skill \(E\) generate?** 
+## **How many Elemental Particles does Mona’s Elemental Skill Generate?** 
 
 By: Curiously\#2324  
 Added on 5/12/2020
@@ -57,7 +57,7 @@ Mona's E gens 3 or 4 Hydro particles on explosion, seemingly weighted towards 3 
 
 The fact that Mona's particle gen is seemingly random means there's an RNG aspect to getting her ult up consistently too. May warrant further testing on other characters to see if other fluctuations in particle gen exists. May need to test whether the particle generation is truly random or if there is a pattern.
 
-## **What Attack string combo outputs the highest DPS for Mona?**
+## **What Attack String Combo Outputs the Highest DPS for Mona?**
 
 By: Baezal\#0868  
 Added on 27/12/2020
@@ -76,7 +76,7 @@ Added on 27/12/2020
 
 Even without jump cancelling, 2AA + Charged provides similar DPS to Charged JC. Cementing that when Mona is attacking, it is ideal to try to maintain 2 AA + 1 Charged, even if you are not JCing. Note that if you run out of stamina, even 3AA + Charged is still better than 4AA JC.
 
-## **Does Mona’s 15% C1 boost to Vaporize damage apply to Mona’s Q Burst itself?** 
+## **Does Mona’s 15% C1 Boost to Vaporize DMG apply to Mona’s Q Burst itself?** 
 
 By: Curiously\#2324  
 Added on 02/02/2021
@@ -93,7 +93,7 @@ Mona’s 1st Constellation does not boost her Q Burst damage.
 
 This has been confirmed due to math being done to break down how Mona's Q Burst damage works and it's been seen that C1 makes the formula wrong. However, just to triple check, there is now clear evidence that the damage difference between C0 and C1 does not change.
 
-## **Is the Omen Damage Buff included in Mona’s Elemental Q Burst damage?**  
+## **Is the Omen Damage Buff included in Mona’s Elemental Q Burst DMG?**  
 
 By: Gibbigobo\#9750  
 Added on 23/02/2021
