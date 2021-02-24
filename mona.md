@@ -95,7 +95,7 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 | CD | 15s |  |  |  |
 | Energy Cost | 60 |  |  |  |
 
-* **Omen** DMG Bonus is classified as DamageBonus%.
+* **Omen** DMG Bonus is classified as **DamageBonus**.
 * See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#base-damage)
 {% endtab %}
 {% endtabs %}
@@ -128,43 +128,50 @@ Increases Mona’s Hydro DMG Bonus by a degree equivalent to 20% of her Energy R
 
 {% tabs %}
 {% tab title="C1" %}
-### Foul Legacy: Tide Withholder
+## **Prophecy of Submersion**
 
-Decreases the CD of Foul Legacy: Raging Tide by 20%
+When any of your own party members hit an opponent affected by an **Omen**, Hydro-related Elemental Reactions are enhanced for 8s:
+
+* Electro-Charged DMG increases by 15%
+* Vaporize DMG increases by 15%
+* Hydro Swirl DMG increases by 15%
+* Frozen duration is extended by 15%
+
+This bonus effect is classified as **ReactionBonus.**  
+See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#amplifying-reaction-bonus)
 {% endtab %}
 
 {% tab title="C2" %}
-### Foul Legacy: Understream
+## **Lunar Chain**
 
-When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy
+When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**. This effect can only occur once every 5s.  
 {% endtab %}
 
 {% tab title="C3" %}
-### Abyssal Mayhem: Vortex of Turmoil
+## **Restless Revolution**
 
-Increases the Level of Foul Legacy: Ragin Tide by 3.  
-Maximum upgrade level is 15.
+Increases the Level of **Stellaris Phantasm** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Abyssal Mayhem: Hydrospout**
+## **Prophecy of Oblivion**
 
-If Tartaglia is in Foul Legacy Raging Tide’s Melee Stance: Triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.
-
-* This constellation effect is not subject to the ICD’s that would typically apply to these two effects, nor do they have any effect on those regular time intervals.
+When any party member attacks an opponent affected by an **Omen**, their Crit Rate is increased by 15%.  
 {% endtab %}
 
 {% tab title="C5" %}
-### Havoc: Formless Blade
+## **Mockery of Fortuna**
 
-Increases the Level of Havoc: Obliteration by 3.  
-Maximum upgrade level is 15.
+Increases the Level of **Mirror Reflection of Doom** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Havoc: Annihilation
+## **Rhetorics of Calamitas**
 
-When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset. This effect will only take place once Tartaglia returns to his Ranged Stance.
+Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her next **Charged Attack** per second of movement.
+
+* A maximum DMG Bonus of 180% can be achieved in this manner.
+* The effect lasts for no more than 8s.
 {% endtab %}
 {% endtabs %}
 
