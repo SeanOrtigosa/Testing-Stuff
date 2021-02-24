@@ -104,21 +104,23 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 
 {% tabs %}
 {% tab title="Passive" %}
-### Master of Weaponry
+### Principium of Astrology
 
-Increases your own party member’s Normal Attack Level by 1.
+When Mona crafts Weapon Ascension Materials, She has a 25% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-### Never Ending
+## **“Come ‘n’ Get me, Hag!”**
 
-Extends Riptide duration by 8s.
+After she has used **Illusory Torrent** for 2s, if there are any opponents nearby, Mona will automatically create a **Phantom**:
+
+* A **Phantom** created in this manner lasts for 2s, and its explosion DMG is equal to 50% of **Mirror Reflection of Doom**.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Sword of Torrents
+## Waterborne Destiny
 
-When Tartaglia is in Foul Legacy: Ragin Tide’s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents.
+Increases Mona’s Hydro DMG Bonus by a degree equivalent to 20% of her Energy Recharge rate.
 {% endtab %}
 {% endtabs %}
 
