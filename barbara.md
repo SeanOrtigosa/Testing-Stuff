@@ -79,21 +79,21 @@ Heals your own party members and nearby teammates for a large amount of HP.
 
 {% tabs %}
 {% tab title="Passive" %}
-### Master of Weaponry
+## **With My Whole Heart♪**
 
-Increases your own party member’s Normal Attack Level by 1.
+When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-### Never Ending
+## Glorious Season
 
-Extends Riptide duration by 8s.
+The Stamina Consumption of characters within Let the Show Begin♪’s **Melody Loop** is reduced by 12%**.**
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Sword of Torrents
+## Encore
 
-When Tartaglia is in Foul Legacy: Ragin Tide’s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents.
+When your active character gains an Elemental Ord/Particle, the duration of Melody Loop is extended by 1s. The maximum extension is 5s.
 {% endtab %}
 {% endtabs %}
 
@@ -101,51 +101,53 @@ When Tartaglia is in Foul Legacy: Ragin Tide’s Melee Stance, on dealing a CRIT
 
 {% tabs %}
 {% tab title="C1" %}
-### Foul Legacy: Tide Withholder
+## Gleeful Songs
 
-Decreases the CD of Foul Legacy: Raging Tide by 20%
+Barbara regenerates 1 Energy every 10s.
 {% endtab %}
 
 {% tab title="C2" %}
-### Foul Legacy: Understream
+## **Vitality Burst**
 
-When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy
+Decreases the CD of Let the Show Begin♪ by 15%.  
+During the ability’s duration, your active character gains a 15% Hydro DMG Bonus.
 {% endtab %}
 
 {% tab title="C3" %}
-### Abyssal Mayhem: Vortex of Turmoil
+## Star of Tomorrow
 
-Increases the Level of Foul Legacy: Ragin Tide by 3.  
-Maximum upgrade level is 15.
+Increases the Level of Shining Miracle♪ by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Abyssal Mayhem: Hydrospout**
+## Attentiveness be My Power
 
-If Tartaglia is in Foul Legacy Raging Tide’s Melee Stance: Triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.
-
-* This constellation effect is not subject to the ICD’s that would typically apply to these two effects, nor do they have any effect on those regular time intervals.
+Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.   
+A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
 {% endtab %}
 
 {% tab title="C5" %}
-### Havoc: Formless Blade
+## The Purest Companionship
 
-Increases the Level of Havoc: Obliteration by 3.  
-Maximum upgrade level is 15.
+Increases the Level of Let the Show Begin♪ by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Havoc: Annihilation
+## Dedicating Everything to You
 
-When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset. This effect will only take place once Tartaglia returns to his Ranged Stance.
+When Barbara is in the party but not on the field, and one of your own party members falls:
+
+* Automatically revives the fallen character.
+* Fully restores the revived character’s HP to 100%
+* This effect can only occur once every 15 mins.
 {% endtab %}
 {% endtabs %}
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/tartaglia/)
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Tartaglia)
-* [**Childe Mains Discord**](https://discord.gg/Childe)
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/barbara/)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Barbara)
+* [**Barbara Mains Discord**](https://discord.gg/6vVQcsrAgN)\*\*\*\*
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
