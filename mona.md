@@ -149,7 +149,9 @@ See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-fo
 {% tab title="C2" %}
 ## **Lunar Chain**
 
-When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**. This effect can only occur once every 5s.  
+When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**. This effect can only occur once every 5s.
+
+* This Charged Attack is not fast enough to do an automatic double Vaporize.
 {% endtab %}
 
 {% tab title="C3" %}
