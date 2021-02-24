@@ -34,6 +34,8 @@ Consume 50 Stamina to deal AoE Hydro damage after a short casting time.
 | Charged Attack | 209.61% |  |  |
 | GU | 1A |  |  |
 
+* N2C with Jump Cancelling provides the greatest DPS for Mona’s attack string.
+
 **Plunge Attack**  
 Plunge from mid-air to the ground, dealing AoE Hydro DMG.
 
@@ -97,6 +99,7 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 | Energy Cost | 60 |  |  |  |
 
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.
+* **Omen** DMG Bonus is applied to the damage calculation.
 * **Omen** DMG Bonus is classified as **DamageBonus**.
 * See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#base-damage)
 {% endtab %}
