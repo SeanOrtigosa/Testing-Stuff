@@ -1,14 +1,15 @@
 ---
 description: >-
-  No. 11 of The Harbingers, also known as “Childe.” His name is highly feared on
-  the battlefield.
+  A mysterious young astrologer who proclaims herself to be “Astrologist Mona
+  Megistus,” and who possesses abilities to match the title. Erudite, but
+  prideful.
 ---
 
-# Tartaglia
+# Mona
 
-## ![](.gitbook/assets/element_hydro.png) Tartaglia
+## ![](.gitbook/assets/element_hydro.png) Mona
 
-![](.gitbook/assets/tartaglia.png)
+![](.gitbook/assets/mona.png)
 
 ## **Attacks**
 
@@ -36,7 +37,7 @@ Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply 
 | :--- | :--- | :--- | :--- | :--- |
 | Aimed Shot | 63.75% |  |  | ~ |
 | Fully Charged | 173.6% |  |  | 1U |
-| Riptide Flash | 17.63% \* 3  |  |  | 1U |
+| Riptide Flash | 17.63% \* 3 |  |  | 1U |
 | Riptide Burst | 86.8% |  |  | 2U |
 
 **Plunge**  
@@ -71,7 +72,7 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
 | Preemptive CD | 6s ~ 36s |
 | Max CD | 45s |
 
-**Normal Attack**   
+**Normal Attack**  
 Perform up to 6 consecutive Hydro strikes.
 
 | String | Talent 6% | Frames | MV/s | GU |
