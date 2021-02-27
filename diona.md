@@ -93,21 +93,21 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 
 {% tabs %}
 {% tab title="Passive" %}
-## **With My Whole Heart♪**
+## Complimentary Bar Food
 
-When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
+When Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-## Glorious Season
+## Cat’s Tail Secret Menu
 
-The Stamina Consumption of characters within Let the Show Begin♪’s **Melody Loop** is reduced by 12%**.**
+Characters shielded by **Icy paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-## Encore
+## Drunkards’ Farce
 
-When your active character gains an Elemental Ord/Particle, the duration of Melody Loop is extended by 1s. The maximum extension is 5s.
+Opponents who enter the AoE of Signature Mix have 10% decreased ATK for 15s.
 {% endtab %}
 {% endtabs %}
 
