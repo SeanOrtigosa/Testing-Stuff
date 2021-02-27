@@ -126,47 +126,41 @@ When the Herald of Frost hits an opponent marked by a **Fortune-Preserving Talis
 {% endtab %}
 
 {% tab title="C2" %}
-## **Vitality Burst**
+## Frozen to the Bone
 
-Decreases the CD of Let the Show Begin♪ by 15%.  
-During the ability’s duration, your active character gains a 15% Hydro DMG Bonus.
+Qiqi’s Normal and Charge Attack DMG against opponents affected by Cryo is increased by 15%.
 {% endtab %}
 
 {% tab title="C3" %}
-## Star of Tomorrow
+## Ascendant Praise
 
-Increases the Level of Shining Miracle♪ by 3.
+Increases the Level of Adeptus Art: Preserver of Fortune by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-## Attentiveness be My Power
+## Divine Suppression
 
-Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.  
-A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
+Targets marked by the **Fortune-Preserving Talisman** have their ATK decreased by 20%.
 {% endtab %}
 
 {% tab title="C5" %}
-## The Purest Companionship
+## Crimson Lotus Bloom
 
-Increases the Level of Let the Show Begin♪ by 3.
+Increases the Level of Adeptus Art: Herald of Frost by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-## Dedicating Everything to You
+## Rite of Resurrection
 
-When Barbara is in the party but not on the field, and one of your own party members falls:
-
-* Automatically revives the fallen character.
-* Fully restores the revived character’s HP to 100%
-* This effect can only occur once every 15 mins.
+Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nearby and regenerates 50% of their HP. This effect can only occur once every 15 mins.
 {% endtab %}
 {% endtabs %}
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/barbara/)
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Barbara)
-* [**Barbara Mains Discord**](https://discord.gg/6vVQcsrAgN)\*\*\*\*
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/qiqi/)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Qiqi)
+* [**Qiqi Mains Discord**](https://discord.gg/VjsGaVbWre)\*\*\*\*
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
