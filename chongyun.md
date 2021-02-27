@@ -98,22 +98,24 @@ When the field created by Chonghua’s Layered Frost disappears, another **Spiri
 
 {% tabs %}
 {% tab title="C1" %}
-## Gleeful Songs
+## Ice Unleashed
 
-Barbara regenerates 1 Energy every 10s.
+The last attack of Chongyun’s Normal Attack combo releases 3 **Ice Blades.**
+
+* Each **Ice Blade** deals 50% of Chongyun’s ATK as Cryo DMG to all opponents in its path.
+* Each **Ice Blade** has a GU of 1A.
 {% endtab %}
 
 {% tab title="C2" %}
-## **Vitality Burst**
+## Atmospheric Revolution
 
-Decreases the CD of Let the Show Begin♪ by 15%.  
-During the ability’s duration, your active character gains a 15% Hydro DMG Bonus.
+Elemental Skills and Elemental Bursts cast within the **Frost Field** created by **Chonghua’s Layered Frost** have their CD time decreased by 15%.
 {% endtab %}
 
 {% tab title="C3" %}
-## Star of Tomorrow
+## Cloudburst
 
-Increases the Level of Shining Miracle♪ by 3.
+Increases the level of Spirit Blade: Cloud-parting Star by 3.
 {% endtab %}
 
 {% tab title="C4" %}
