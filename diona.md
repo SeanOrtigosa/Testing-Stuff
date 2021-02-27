@@ -36,8 +36,7 @@ A fully charged shot will deal Cryo DMG.
 | GU | 1A |  |  |
 
 **Plunge Attack**  
-Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.  
-
+Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
 | Type | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
