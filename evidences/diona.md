@@ -13,8 +13,7 @@ The first 2 \(tap\) and last 3 \(hold\) projectiles of Diona's Elemental skill h
 
 [https://youtu.be/MrN0FWlHcCo](https://youtu.be/MrN0FWlHcCo)
 
-After applying a strong fire aura \(Bennet E\), I applied a Cryo trigger from Diona's E.
-
+After applying a strong fire aura \(Bennet E\), I applied a Cryo trigger from Diona's E.  
 I also tested waiting between Bennet's E and Diona's E to downgrade the fire element strength.
 
 Bennet E + \(no wait\) + Diona E \(tap\) = 1 melt reaction + weak pyro aura remaining on enemy.
