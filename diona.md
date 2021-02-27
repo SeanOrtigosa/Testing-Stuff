@@ -1,8 +1,7 @@
 ---
 description: >-
   A young lady who has inherited trace amounts of non-human blood. She is the
-  incredibly popular bartender of the Cat’s Tail tavern.Every citizen of
-  Mondstadt adores Barbara. She learned the word “idol”
+  incredibly popular bartender of the Cat’s Tail tavern.
 ---
 
 # Diona
