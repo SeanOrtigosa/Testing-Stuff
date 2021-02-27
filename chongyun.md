@@ -58,7 +58,7 @@ Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short 
 {% endtab %}
 
 {% tab title="Spirit Blade: Cloud-Parting Star" %}
-Summon 3 giant spirit blades to fall down one by one after a short delay, dealing AoE Cryo DMG and launch opponents.
+Summon 3 giant **Spirit Blades** to fall down one by one after a short delay, dealing AoE Cryo DMG and launch opponents.
 
 | Effect | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
@@ -73,21 +73,24 @@ Summon 3 giant spirit blades to fall down one by one after a short delay, dealin
 
 {% tabs %}
 {% tab title="Passive" %}
-## **With My Whole Heart♪**
+## Gallant Journey
 
-When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
+When dispatched on an expedition on Liyue, time consumed is reduced by 25%
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-## Glorious Season
+## Steady Breathing
 
-The Stamina Consumption of characters within Let the Show Begin♪’s **Melody Loop** is reduced by 12%**.**
+Sword, Claymore or Polearm-wielding characters within the field created by **Chonghua’s Layered Frost** have their Normal ATK SPD increased by 8%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-## Encore
+## Rimechaser Blade
 
-When your active character gains an Elemental Ord/Particle, the duration of Melody Loop is extended by 1s. The maximum extension is 5s.
+When the field created by Chonghua’s Layered Frost disappears, another **Spirit Blade** will be summoned to strike nearby opponents:
+
+* Deals 100% of **Chonghua’s Layered Frost**’s DMG as AoE Cryo DMG.
+* Decreases Cryo Res of opponents hit by 10%
 {% endtab %}
 {% endtabs %}
 
