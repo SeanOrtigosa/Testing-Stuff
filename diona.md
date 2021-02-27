@@ -1,79 +1,91 @@
 ---
 description: >-
-  Every citizen of Mondstadt adores Barbara. She learned the word “idol” from a
-  magazine.
+  A young lady who has inherited trace amounts of non-human blood. She is the
+  incredibly popular bartender of the Cat’s Tail tavern.Every citizen of
+  Mondstadt adores Barbara. She learned the word “idol”
 ---
 
-# Barbara
+# Diona
 
-## ![](.gitbook/assets/element_hydro.png) Barbara
+## ![](.gitbook/assets/element_cryo.png) Diona
 
-![](.gitbook/assets/barbara.png)
+![](.gitbook/assets/diona.png)
 
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Whisper of Water" %}
+{% tab title="Kätzlein Style" %}
 **Normal Attack**  
-Perform up to 4 water splash attacks that deal Hydro DMG.
+Perform up to 5 consecutive shots with a bow.
 
-| **String** | **Talent 6%** | **Frames** | **MV/s** |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 52.98% |  |  |
-| 2-Hit | 49.73% |  |  |
-| 3-Hit | 57.46% |  |  |
-| 4-Hit | 77.28% |  |  |
-| GU | 1A |  |  |
+| 1-hit | 52.5% |  |  |
+| 2-Hit | 48.75% |  |  |
+| 3-Hit | 66.25% |  |  |
+| 4-Hit | 62.5% |  |  |
+| 5-Hit | 78.13% |  |  |
 
-**Charged Attack**  
-Consume 50 Stamina to deal AoE Hydro DMG.
+**Aimed Shot**  
+Perform a precise Aimed Shot with increased DMG.  
+A fully charged shot will deal Cryo DMG.
 
-| **String** | **Talent 6%** | **Frames** | **MV/s** |
+| Type | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 232.74% |  |  |
+| Aimed Shot | 63.75% |  |  |
+| Fully Charged | 173.6% |  |  |
 | GU | 1A |  |  |
 
 **Plunge Attack**  
-Plunge from mid-air to deal AoE Hydro DMG.
+Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.  
 
-| **Type** | **Talent 6%** | **GU** |
-| :--- | :--- | :--- |
-| Plunge DMG | 82.6% | 1A |
-| Low Plunge DMG | 165.17% | 1A |
-| High Plunge DMG | 206.3% | 1A |
+
+| Type | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 82.6% |  |  |
+| Low Plunge DMG | 165.17% |  |  |
+| High Plunge DMG | 206.3% |  |  |
 {% endtab %}
 
-{% tab title="Let the Show Begin♪" %}
-Summon a **Melody Loop**, dealing Hydro DMG to surrounding opponents and applying the Wet Status to them.
+{% tab title="Icy Paws" %}
+Fire **Icy Paws** that deal Cryo DMG to opponents and forms a shield on hit.  
+The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration scales off the number of **Icy Paws** that hit their target.
 
-**Melody Loop:**
+**Press**
 
-* On hit, Barbara’s Normal Attacks heal your own party members and nearby teammates for a certain amount. Barbara’s Charged Attack generates 4 times the amount of healing.
-* Periodically regenerates your own active character’s HP.
-* Applies brief periodic Hydro aura to the active character.
-* Applies Hydro aura to opponents who come in contact.
+* Rapidly fires off 2 **Icy Paws**.
 
-| **Effect** | **Talent 6%** |
-| :--- | :--- |
-| HP Regen/hit | 1.05% Max HP + 114 |
-| Continuous Regen | 5.6% Max HP + 610 |
-| Droplet DMG | 81.76% |
-| GU | 1A |
-| Duration | 15s |
-| Cooldown | 32s |
+**Hold**
 
-* Cast time can be reduced by performing a swap cancel.
+* Dashes back quickly and before firing 5 **Icy Paws**.
+* The shield created by a Hold attack will gain a 75% DMG Absorption Bonus.
+* The shield has a 250% Cryo DMG Absorption bonus.
+* Applies a 1A Cryo Aura for a short duration upon formation and swap to a different active character.
+
+| Effect | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| DMG per Icy Paw | 58.69% |  |  |
+| Shield Scaling | 10.08% Max HP + 1097 |  |  |
+| Duration | 2.3s per Claw |  |  |
+| Press CD | 6s |  |  |
+| Hold CD | 15s |  |  |
 {% endtab %}
 
-{% tab title="Shining Miracle♪" %}
-Heals your own party members and nearby teammates for a large amount of HP.  
+{% tab title="Signature Mix" %}
+Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken Mist**:
 
+* Deals continuous Cryo DMG to opponents within the AoE.
+* Continuously regenerates HP of the characters within the AoE
 
-| Effect | Talent 6% |
-| :--- | :--- |
-| HP Regen | 24.64% Max HP + 2683 |
-| Cooldown | 20s |
-| Energy Cost | 80 |
+| Effect | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| Skill DMG | 112% |  |  |
+| Field DMG | 73.7% |  |  |
+| GU | 1A |  |  |
+| HP Regen | 7.47% Max HP + 813 |  |  |
+| Duration | 12s |  |  |
+| CD | 20s |  |  |
+| Energy Cost | 80 |  |  |
 {% endtab %}
 {% endtabs %}
 
@@ -124,7 +136,7 @@ Increases the Level of Shining Miracle♪ by 3.
 {% tab title="C4" %}
 ## Attentiveness be My Power
 
-Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.   
+Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.  
 A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
 {% endtab %}
 
@@ -154,3 +166,4 @@ When Barbara is in the party but not on the field, and one of your own party mem
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
+
