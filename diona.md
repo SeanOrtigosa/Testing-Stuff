@@ -129,40 +129,38 @@ Increases **Icy Paws**’ DMG by 15%, and increases its shield’s DMG Absorptio
 {% endtab %}
 
 {% tab title="C3" %}
-## Star of Tomorrow
+## A-Another Round?
 
-Increases the Level of Shining Miracle♪ by 3.
+Increases the Level of Signature Mix by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-## Attentiveness be My Power
+## Wine Industry Slayer
 
-Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.  
-A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
+Within the radius of **Signature Mix**, Diona’s charge time for Aimed Shots is reduced by 60%
 {% endtab %}
 
 {% tab title="C5" %}
-## The Purest Companionship
+## Double Shot, On The Rocks
 
-Increases the Level of Let the Show Begin♪ by 3.
+Increases the Level of Icy Paws by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-## Dedicating Everything to You
+## Cat’s Tail Closing Time
 
-When Barbara is in the party but not on the field, and one of your own party members falls:
+Characters within **Signature Mix**’s radius will gain the following effects:
 
-* Automatically revives the fallen character.
-* Fully restores the revived character’s HP to 100%
-* This effect can only occur once every 15 mins.
+* Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.
+* Elemental Mastery Increased by 200 when HP is above 50%.
 {% endtab %}
 {% endtabs %}
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/barbara/)
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Barbara)
-* [**Barbara Mains Discord**](https://discord.gg/6vVQcsrAgN)\*\*\*\*
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/diona/)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Diona)
+* [**Diona Mains Discord**](https://discord.gg/JkeJWTtzGT)\*\*\*\*
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
