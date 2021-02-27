@@ -107,7 +107,7 @@ Characters shielded by **Icy paws** have their Movement SPD increased by 10% and
 {% tab title="Ascension 4" %}
 ## Drunkards’ Farce
 
-Opponents who enter the AoE of Signature Mix have 10% decreased ATK for 15s.
+Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.
 {% endtab %}
 {% endtabs %}
 
@@ -115,16 +115,17 @@ Opponents who enter the AoE of Signature Mix have 10% decreased ATK for 15s.
 
 {% tabs %}
 {% tab title="C1" %}
-## Gleeful Songs
+## A Lingering Flavor
 
-Barbara regenerates 1 Energy every 10s.
+Regenerates 15 Energy for Diona after the effects of **Signature Mix** end.
 {% endtab %}
 
 {% tab title="C2" %}
-## **Vitality Burst**
+## Shaken, Not Purred
 
-Decreases the CD of Let the Show Begin♪ by 15%.  
-During the ability’s duration, your active character gains a 15% Hydro DMG Bonus.
+Increases **Icy Paws**’ DMG by 15%, and increases its shield’s DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield’s DMG Absorption for 5s.
+
+* This DMG increase is **Additive**.
 {% endtab %}
 
 {% tab title="C3" %}
