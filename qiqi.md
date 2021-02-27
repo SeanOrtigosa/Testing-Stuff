@@ -1,79 +1,96 @@
 ---
 description: >-
-  Every citizen of Mondstadt adores Barbara. She learned the word “idol” from a
-  magazine.
+  An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white
+  complexion, she seldom has much in the way of words or emotion.
 ---
 
-# Barbara
+# Qiqi
 
-## ![](.gitbook/assets/element_hydro.png) Barbara
+## ![](.gitbook/assets/element_cryo.png) Qiqi
 
-![](.gitbook/assets/barbara.png)
+![](.gitbook/assets/qiqi.png)
+
+## Base Stats
+
+| **Lv** | **Base HP** | **Base ATK** | **Base DEF** | **Healing Bonus** |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 8023 | 186 | 598 | 11.1% |
+| 60+ | 8610 | 200 | 642 | 11.1% |
+| 70 | 9463 | 220 | 706 | 11.1% |
+| 70+ | 10050 | 233 | 749 | 16.6% |
+| 80 | 10912 | 253 | 814 | 16.6% |
+| 80+ | 11499 | 267 | 857 | 22.2% |
+| 90 | 12368 | 287 | 922 | 22.2% |
 
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Whisper of Water" %}
+{% tab title="Ancient Sword Art" %}
 **Normal Attack**  
-Perform up to 4 water splash attacks that deal Hydro DMG.
+Perform up to 5 rapid strikes.
 
-| **String** | **Talent 6%** | **Frames** | **MV/s** |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 52.98% |  |  |
-| 2-Hit | 49.73% |  |  |
-| 3-Hit | 57.46% |  |  |
-| 4-Hit | 77.28% |  |  |
-| GU | 1A |  |  |
+| 1-Hit | 54.88% |  |  |
+| 2-Hit | 56.5% |  |  |
+| 3-Hit | 35.13% + 35.13% |  |  |
+| 4-Hit | 35.88% + 35.88% |  |  |
+| 5-Hit | 91.63% |  |  |
 
 **Charged Attack**  
-Consume 50 Stamina to deal AoE Hydro DMG.
+Consume 20 Stamina to unleash 2 rapid sword strikes.
 
-| **String** | **Talent 6%** | **Frames** | **MV/s** |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 232.74% |  |  |
-| GU | 1A |  |  |
+| Charged Attack | 93.5% + 93.5% |  |  |
+| N1C | 241.88% |  |  |
 
 **Plunge Attack**  
-Plunge from mid-air to deal AoE Hydro DMG.
+Plunge from mid-air to strike the ground below dealing AoE DMG.
 
-| **Type** | **Talent 6%** | **GU** |
-| :--- | :--- | :--- |
-| Plunge DMG | 82.6% | 1A |
-| Low Plunge DMG | 165.17% | 1A |
-| High Plunge DMG | 206.3% | 1A |
+| Type | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 92.93% |  |  |
+| Low Plunge DMG | 185.81% |  |  |
+| High Plunge DMG | 232.09% |  |  |
 {% endtab %}
 
-{% tab title="Let the Show Begin♪" %}
-Summon a **Melody Loop**, dealing Hydro DMG to surrounding opponents and applying the Wet Status to them.
+{% tab title="Adeptus Art: Herald of Frost" %}
+Qiqi brings forth the **Herald of Frost**, dealing Cryo DMG to surrounding opponents.
 
-**Melody Loop:**
+**Herald of Frost**
 
-* On hit, Barbara’s Normal Attacks heal your own party members and nearby teammates for a certain amount. Barbara’s Charged Attack generates 4 times the amount of healing.
-* Periodically regenerates your own active character’s HP.
-* Applies brief periodic Hydro aura to the active character.
-* Applies Hydro aura to opponents who come in contact.
+* On hit, Qiqi’s Normal and Charged Attacks regenerate HP for your own party members and nearby teammates.
+* Periodically regenerates your active character’s HP.
+* Healing scales based on Qiqi’s ATK
+* Follows the character around, dealing Cryo DMG to opponents in their path.
 
-| **Effect** | **Talent 6%** |
-| :--- | :--- |
-| HP Regen/hit | 1.05% Max HP + 114 |
-| Continuous Regen | 5.6% Max HP + 610 |
-| Droplet DMG | 81.76% |
-| GU | 1A |
-| Duration | 15s |
-| Cooldown | 32s |
-
-* Cast time can be reduced by performing a swap cancel.
+| Effect | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| Skill DMG | 134.4% |  |  |
+| Regen on Hit | 14.78% ATK + 107 |  |  |
+| Continuous Regen | 97.44% ATK + 713 |  |  |
+| Herald DMG | 50.4% |  |  |
+| GU | 1A |  |  |
+| Duration | 15s |  |  |
+| CD | 30s |  |  |
 {% endtab %}
 
 {% tab title="Shining Miracle♪" %}
-Heals your own party members and nearby teammates for a large amount of HP.  
+Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DMG.
 
+**Fortune-Preserving Talisman**
 
-| Effect | Talent 6% |
-| :--- | :--- |
-| HP Regen | 24.64% Max HP + 2683 |
-| Cooldown | 20s |
-| Energy Cost | 80 |
+* When opponents affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.
+
+| Effect | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| Skill DMG | 398.72% |  |  |
+| GU | 2B |  |  |
+| Healing | 126% ATK + 914 |  |  |
+| Duration | 15s |  |  |
+| CD | 20s |  |  |
+| Energy Cost | 80 |  |  |
 {% endtab %}
 {% endtabs %}
 
@@ -81,21 +98,21 @@ Heals your own party members and nearby teammates for a large amount of HP.
 
 {% tabs %}
 {% tab title="Passive" %}
-## **With My Whole Heart♪**
+## Former Life Memories
 
-When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
+Displays the location of nearby resources unique to Liyue on the mini-map.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-## Glorious Season
+## **Life-Prolonging Methods**
 
-The Stamina Consumption of characters within Let the Show Begin♪’s **Melody Loop** is reduced by 12%**.**
+When a character under the effects of **Adeptus Art: Herald of Frost** triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-## Encore
+## A Glimpse into Arcanum
 
-When your active character gains an Elemental Ord/Particle, the duration of Melody Loop is extended by 1s. The maximum extension is 5s.
+When Qiqi hits opponents with hey Normal and Charged Attacks, she has a 50% chance to apply a **Fortune-Preserving Talisma**n to them for 6s. This effect can only occur once every 30s.
 {% endtab %}
 {% endtabs %}
 
@@ -103,9 +120,9 @@ When your active character gains an Elemental Ord/Particle, the duration of Melo
 
 {% tabs %}
 {% tab title="C1" %}
-## Gleeful Songs
+## Ascetics of Frost
 
-Barbara regenerates 1 Energy every 10s.
+When the Herald of Frost hits an opponent marked by a **Fortune-Preserving Talisman**, Qiqi regenerates 2 Energy.
 {% endtab %}
 
 {% tab title="C2" %}
@@ -124,7 +141,7 @@ Increases the Level of Shining Miracle♪ by 3.
 {% tab title="C4" %}
 ## Attentiveness be My Power
 
-Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.   
+Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.  
 A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
 {% endtab %}
 
@@ -154,3 +171,4 @@ When Barbara is in the party but not on the field, and one of your own party mem
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
+
