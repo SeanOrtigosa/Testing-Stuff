@@ -26,57 +26,76 @@ description: >-
 ## Attacks
 
 {% tabs %}
-{% tab title="Wind Spirit Creation" %}
+{% tab title="Lightning Touch" %}
 **Normal Attack**  
-Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
+Perform up to 4 lightning attacks dealing Electro DMG.
 
-| String | Talent 6 DMG% | Frames | MV\s |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 46.85% |  |  |
-| 2-Hit | 42.86% |  |  |
-| 3-Hit | 53.83% |  |  |
-| 4-Hit | 67.08% |  |  |
-| GU | 1GU |  |  |
+| 1-Hit | 55.44% | 22 | 151.2%/s |
+| 2-Hit | 50.29% | 46 | 137.9%/s |
+| 3-Hit | 59.92% | 68 | 146.2%/s |
+| 4-Hit | 76.94% | 113 | 128.8%/s |
+| GU | 1A |  |  |
 
 **Charged Attack**  
-Consumes 50 Stamina to deal AoE **Anemo** DMG.
+Consume 50 Stamina to deal AoE Electro DMG after a short casting time.
 
-| String | Talent 6 DMG% | Frames | MV\s |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 168.22% |  |  |
-| GU | 1GU |  |  |
+| Charged Attack | 247.97% | 72 | 206.64%/s |
+| GU | 1A |  |  |
 
-**Plunge Damage**  
-Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
+**Plunge Attack**  
+Plunge towards the ground below from mid-air to deal AoE Electro DMG.
 
-| Type | Talent 6 DMG% | GU |
-| :--- | :--- | :--- |
-| Plunge DMG | 82.6% | 1GU |
-| Low Plunge DMG | 165.17% | 1GU |
-| High Plunge DMG | 206.3% | 1GU |
+| Type | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 82.6% |  |  |
+| Low Plunge DMG | 165.17% |  |  |
+| High Plunge DMG | 206.3% |  |  |
 {% endtab %}
 
-{% tab title="Astable Anemohypostasis Creation-6308" %}
-Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
+{% tab title="Violet Arc" %}
+Channels the power of lightning to sweep bothersome matters away.
 
-| Effect | Talent 6 DMG% | GU |
-| :--- | :--- | :--- |
-| Skill DMG | 295.68% | 1GU |
-| CD | 15s |  |
+**Press**  
+Releases a homing **Lightning Orb**.
+
+* On hit, it deals Electro DMG, and applies a stack of the **Conductive** status \(Max 3 stacks\) to opponents in a small AoE.
+
+**Hold**
+
+After an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby opponents.
+
+* Deals extra damage to opponents based on the number of **Conductive** stacks applied to them.
+* Clears **Conductive** status on hit.
+
+| Effect | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| Press DMG | 112% | 20 | 336%/s |
+| Press CD | 1s | 80 | 84%/s |
+| Hold DMG | 448% | 115 | 233.7%/s |
+| Stack 1 DMG | 515.2% | 115 | 268.8%/s |
+| Stack 2 DMG | 593.6% | 115 | 309.7%/s |
+| Stack 3 DMG | 682.06% | 115 | 355.9%/s |
+| Holding CD | 16s |  |  |
+| Press GU | 1A |  |  |
+| Hold GU | 2B |  |  |
 {% endtab %}
 
-{% tab title="Forbidden Creation-Isomer 75/Type II" %}
-Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While it persists, the **Large Wind Spirit** will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal **Anemo** DMG.
+{% tab title="Lightning Rose" %}
+Summons a **Lightning Rose** that unleashes powerful lightning bolts, launching surrounding opponents and dealing Electro DMG.
 
-If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type. This can only occur once per use.
+The **Lightning Rose** will continuously emit lightning to knock back opponents and deal Electro DMG throughout the duration.
 
-| Effect | Talent 6 DMG% |
-| :--- | :--- |
-| Damage-Over-Time | 207.2% |
-| Additional Elemental DMG | 61.6% |
-| Duration | 6s |
-| CD | 20s |
-| Energy Cost | 80 |
+| Effect | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| Discharge DMG | 51.18% | 30 | 102.4%/s |
+| Duration | 15s |  |  |
+| CD | 20s |  |  |
+| Energy Cost | 80 |  |  |
+| GU | 1A |  |  |
 {% endtab %}
 {% endtabs %}
 
