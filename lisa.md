@@ -181,7 +181,7 @@ When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive**
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG |  |  |  |  |  |  |
+| Charged Attack DMG | 247.97% | 265.68% | 283.39% | 301.1% | 318.82% | 337.24% |
 
 **Stamina Cost: 50**
 
@@ -189,15 +189,19 @@ When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive**
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG |  |  |  |  |  |  |
-| Low Plunge DMG |  |  |  |  |  |  |
-| High Plunge DMG |  |  |  |  |  |  |
+| Plunge DMG | 82.6% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 165.17% | 179.7% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 206.3% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 {% endtab %}
 
 {% tab title="Violet Arc" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG% |  |  |  |  |  |  |  |  |
+| Press DMG | 112% | 120% | 128% | 136% | 144% | 152% | 160% | 170% |
+| Hold DMG | 448% | 480% | 512% | 544% | 576% | 608% | 640% | 680% |
+| Stack 1 | 515.2% | 552% | 588.8% | 625.6% | 662.4% | 699.2% | 736% | 782% |
+| Stack 2 | 593.6% | 636% | 678.4% | 720.8% | 763.2% | 805.6% | 848% | 901% |
+| Stack 3 | 682.08% | 730.8% | 779.52% | 828.24% | 876.96% | 925.68% | 974.4% | 1035.3% |
 
 **Cooldown: 15s**
 {% endtab %}
@@ -205,14 +209,14 @@ When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive**
 {% tab title="Lightning Rose" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DoT |  |  |  |  |  |  |  |  |
+| DoT | 51.18% | 54.84% | 58.5% | 62.15% | 65.81% | 69.46% | 73.12% | 77.69% |
 {% endtab %}
 {% endtabs %}
 
 ## External Links
 
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Sucrose#:~:text=Sucrose%20is%20a%20playable%20Anemo,of%20the%20Knights%20of%20Favonius.)
-* [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Lisa)\*\*\*\*
+* \*\*\*\*[**Lisa Mains Discord**](https://discord.gg/5SYy4MPPCt)\*\*\*\*
 
 **Evidence Vault**
 
