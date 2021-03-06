@@ -103,21 +103,21 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 
 {% tabs %}
 {% tab title="Passive" %}
-### Astable Invention
+## General Pharmaceutics
 
-When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.
+When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-### Catalyst Conversion
+## Induced Aftershock
 
-When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s.
+Hit by Charged Attacks apply Violet Arc’s **Conductive** status to opponents.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Mollis Favonius
+## Static Electricity Field
 
-When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 75/ Type II** hits an opponent, increases all party member's \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s
+Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
 {% endtab %}
 {% endtabs %}
 
