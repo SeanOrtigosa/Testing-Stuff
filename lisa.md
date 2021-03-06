@@ -111,7 +111,7 @@ When Lisa crafts a potion, she has a 20% chance to refund a portion of the craft
 {% tab title="Ascension 2" %}
 ## Induced Aftershock
 
-Hit by Charged Attacks apply Violet Arc’s **Conductive** status to opponents.
+Hit by Charged Attacks apply **Violet Arc’s** **Conductive** status to opponents.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -125,39 +125,42 @@ Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
 
 {% tabs %}
 {% tab title="C1" %}
-### Clustered Vaccum Field
+## Infinite Circuit
 
-**Astable Anemohypostasis Creation-6308** gains 1 additional charge.
+Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**. A maximum of 10 Energy can be regenerated in this manner at any one time.
 {% endtab %}
 
 {% tab title="C2" %}
-### Beth: Unbound Form
+## Electromagnetic Field
 
-The duration of **Forbidden Creation- Isomer 75/ Type II** is increased by 2s.
+Holding **Violet Arc** has the following effects:
+
+* Increases DEF by 25%.
+* Increases Lisa’s resistance to interruption.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Flawless Alchemistress**
+## Resonant Thunder
 
-Increase the level of **Astable Anemohypostasis Creation-6308** by 3.
+Increases the Level of Lightning Rose by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Alchemania
+## Plasma Eruption
 
-Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anemohypostasis Creation-6308** by 1-7s.
+Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
 {% endtab %}
 
 {% tab title="C5" %}
-### Caution: Standard Flask
+## Electrocute
 
-Increases the level of **Forbidden Creation-Isomer 75/Type II** by 3.
+Increases the Level of Violet Arc by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Chaotic Entropy
+## **Pulsating Witch**
 
-If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, all part members gain a 20% Elemental DMG Bonus for the corresponding absorbed elemental during its duration.
+When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive** status onto nearby opponents. This effect can only occur once every 5s.
 {% endtab %}
 {% endtabs %}
 
