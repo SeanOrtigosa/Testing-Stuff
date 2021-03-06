@@ -203,13 +203,18 @@ When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive**
 | Stack 2 | 593.6% | 636% | 678.4% | 720.8% | 763.2% | 805.6% | 848% | 901% |
 | Stack 3 | 682.08% | 730.8% | 779.52% | 828.24% | 876.96% | 925.68% | 974.4% | 1035.3% |
 
-**Cooldown: 15s**
+**Press Cooldown: 1s  
+Hold Cooldown: 16s**
 {% endtab %}
 
 {% tab title="Lightning Rose" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | DoT | 51.18% | 54.84% | 58.5% | 62.15% | 65.81% | 69.46% | 73.12% | 77.69% |
+
+**Duration: 15s  
+Cooldown: 20s  
+Energy Cost: 80**
 {% endtab %}
 {% endtabs %}
 
