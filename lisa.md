@@ -167,21 +167,21 @@ When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive**
 ## Full Talent Values
 
 {% tabs %}
-{% tab title="Wind Spirit Creation" %}
+{% tab title="Lightning Touch" %}
 ### Normal Attacks
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 46.85 | 50.2 | 53.54 | 56.89 | 60.24 | 63.58 |
-| 2-Hit DMG | 42.86 | 45.92 | 48.99 | 52.05 | 55.11 | 58.17 |
-| 3-Hit DMG | 53.83 | 57.67 | 61.52 | 65.36 | 69.21 | 73.05 |
-| 4-Hit DMG | 67.08 | 71.88 | 76.67 | 81.46 | 86.25 | 91.04 |
+| 1-Hit DMG | 55.44% | 59.4% | 63.36% | 67.32% | 71.28% | 75.4% |
+| 2-Hit DMG | 50.29% | 53.88% | 57.47% | 61.06% | 64.66% | 68.39% |
+| 3-Hit DMG | 59.92% | 64.2% | 68.48% | 72.76% | 77.04% | 81.49% |
+| 4-Hit DMG | 76.94% | 82.44% | 87.94% | 93.43% | 98.93 | 104.64% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 168.22 | 180.24 | 192.26 | 204.27 | 216.29 | 228.3 |
+| Charged Attack DMG |  |  |  |  |  |  |
 
 **Stamina Cost: 50**
 
@@ -189,24 +189,23 @@ When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive**
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
-| Low Plunge DMG | 165.17 | 179.7 | 194.23 | 208.77 | 224.62 | 240.48 |
-| High Plunge DMG | 206.3 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+| Plunge DMG |  |  |  |  |  |  |
+| Low Plunge DMG |  |  |  |  |  |  |
+| High Plunge DMG |  |  |  |  |  |  |
 {% endtab %}
 
-{% tab title="Astable Anemohypostasis Creation-6308" %}
+{% tab title="Violet Arc" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG% | 295.68 | 316.8 | 337.92 | 359.04 | 380.16 | 401.28 | 422.4 | 448.8 |
+| Skill DMG% |  |  |  |  |  |  |  |  |
 
 **Cooldown: 15s**
 {% endtab %}
 
-{% tab title="Forbidden Creation- Isomer 75/Type II" %}
+{% tab title="Lightning Rose" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DoT | 207.2 | 222 | 236.8 | 251.6 | 266.4 | 281.2 | 296 | 314.5 |
-| Additional Elemental DMG | 61.6 | 66 | 70.4 | 74.8 | 79.2 | 83.6 | 88 | 93.5 |
+| DoT |  |  |  |  |  |  |  |  |
 {% endtab %}
 {% endtabs %}
 
