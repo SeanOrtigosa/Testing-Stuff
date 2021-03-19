@@ -49,10 +49,13 @@ Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply 
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  | NA |
-| Fully Charged | 173.6% |  |  | 1U |
-| Riptide Flash | 17.63% \* 3 |  |  | 1U |
-| Riptide Burst | 86.8% |  |  | 2U |
+| Aimed Shot | 63.75% | 27 | 141.7%/s | NA |
+| Fully Charged | 173.6% | 84 | 124%/s | 1U |
+| Riptide Flash | 17.63% \* 3 | ~ | ~ | 1U |
+| Riptide Burst | 86.8% | ~ | ~ | 2U |
+
+* Aimed Shot frame counts are done using M1 Aimed Spam.
+* Fully Charged frame counts are done using ARCC Shots.
 
 **Plunge**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG.
@@ -97,7 +100,7 @@ Perform up to 6 consecutive Hydro strikes.
 | 4-Hit | 87.13% | 80 | 214.5%/s |
 | 5-Hit | 80.38% | 116 | 189.5%/s |
 | 6-Hit | 51.5% + 54.75% | 165 | 171.9%/s |
-| GU | 1A |  |  |
+| GU | 1A | ~ | ~ |
 
 **Charged Attack**  
 Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
@@ -108,7 +111,7 @@ Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
 | N2C | 309.12% | 93 | 199.4%/s | 1A |
 | N3C | 391% | 125 | 187.7%/s | 1A |
 
-* All framecounts are done against a Ruin Guard.
+* All frame counts are done against a Ruin Guard.
 
 **Riptide Slash**  
 Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash, dealing AoE Hydro DMG.
