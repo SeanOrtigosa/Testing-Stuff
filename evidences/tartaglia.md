@@ -59,7 +59,7 @@ For calculations, bow charge time averaged at 100 frames to accommodate for huma
 
 Aimed shot gap-fill for C0 players is somewhat viable during E downtime, at least for single-target DPS.
 
-**Editor’s note \(JimminyJon\#5698\):** Disparity between the aimed shot and melee will grow with higher crit rate, as the relative increase to average crit bonus becomes smaller between weak-spot hits and melee normals. Also, weapons like Rust will suffer from -CA DMG. Due to being single target, **A**imed shot will also lose out with grouping effects like VH/Venti.
+**Editor’s note \(JimminyJon\#5698\):** Disparity between the aimed shot and melee will grow with higher crit rate, as the relative increase to average crit bonus becomes smaller between weak-spot hits and melee normals. Also, weapons like Rust will suffer from -CA DMG. Due to being single target, Aimed shot will also lose out with grouping effects like VH/Venti.
 
 ## **Childe Stance Switch From Ranged to Melee**
 
@@ -120,14 +120,17 @@ Could be useful to make some domains easier by triggering certain mob reactions.
 By: Zeitraffer\#1074  
 Added on 03/19/2021
 
-**Finding:**  
+**Finding:**
+
 As stated by multiple players, Childe seems to have a fixed 3-second ICD on his particle generation on Riptide Slash.
 
-**Evidence:**  
-[**https://www.youtube.com/watch?v=bsxSsu1njkU**](https://www.youtube.com/watch?v=bsxSsu1njkU)  
+**Evidence:**
+
+\*\*\*\*[**https://www.youtube.com/watch?v=bsxSsu1njkU**](https://www.youtube.com/watch?v=bsxSsu1njkU)  
 ****The link above is a video of Childe doing Melee N1 cancels on a marked Ruin Guard. It shows how both Riptide ICD and Particle Gen ICD interacts with one another.
 
-**Significance:**  
+**Significance:**
+
 Just a clarification on how his particle generation works.  
 ****
 
