@@ -31,12 +31,15 @@ Perform up to 6 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 60% |  |  |
-| 2-Hit | 67.25% |  |  |
-| 3-Hit | 80.5% |  |  |
-| 4-Hit | 82.88% |  |  |
-| 5-Hit | 88.5% |  |  |
-| 6-Hit | 105.75% |  |  |
+| 1-Hit | 60% | 17 | 211.8%/s |
+| 2-Hit | 67.25% | 30 | 254.5%/s |
+| 3-Hit | 80.5% | 64 | 194.8%/s |
+| 4-Hit | 82.88% | 101 | 172.7%/s |
+| 5-Hit | 88.5% | 123 | 184.9%/s |
+| 6-Hit | 105.75% | 162 + 53\* | 179.6%/s\* |
+
+* Recovery of 6th Hit is 53 Frames.
+* MV/s stated is without recovery. 
 
 **Charged Attack**  
 Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply the **Riptide** status.
