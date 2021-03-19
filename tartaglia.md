@@ -39,7 +39,7 @@ Perform up to 6 consecutive shots with a bow.
 | 6-Hit | 105.75% | 162 + 53\* | 179.6%/s\* |
 
 * Recovery of 6th Hit is 53 Frames.
-* MV/s stated is without recovery. 
+* MV/s stated is without recovery and assumes a standing combat-neutral startup. 
 
 **Charged Attack**  
 Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply the **Riptide** status.
@@ -108,12 +108,14 @@ Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
 | N2C | 309.12% | 93 | 199.4%/s | 1A |
 | N3C | 391% | 125 | 187.7%/s | 1A |
 
+* All framecounts are done against a Ruin Guard.
+
 **Riptide Slash**  
 Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash, dealing AoE Hydro DMG.
 
 * This DMG is considered as Elemental Skill DMG.
 * This DMG can only occur once every 1.5s.
-* Each proc of this effect gives 1 Hydro Particle.
+* Gives 1 Hydro Particle upon proc. However, this particle generation has an ICD of 3 seconds.
 
 | Type | Talent 6% |
 | :--- | :--- |
