@@ -122,7 +122,7 @@ Added on 03/19/2021
 
 **Finding:**
 
-As stated by multiple players, Childe seems to have a fixed 3-second ICD on his particle generation on Riptide Slash.
+As multiple players had pointed out, Childe seems to have a fixed 3-second ICD on his particle generation on Riptide Slash. This disproved my previous claim of it generating a particle every proc.
 
 **Evidence:**
 
