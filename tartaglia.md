@@ -36,7 +36,7 @@ Perform up to 6 consecutive shots with a bow.
 | 3-Hit | 80.5% | 64 | 194.8%/s |
 | 4-Hit | 82.88% | 101 | 172.7%/s |
 | 5-Hit | 88.5% | 123 | 184.9%/s |
-| 6-Hit | 105.75% | 162 + 53\* | 179.6%/s\* |
+| 6-Hit | 105.75% | 162 + 53 | 179.6%/s |
 
 * Recovery of 6th Hit is 53 Frames.
 * MV/s stated is without recovery and assumes a standing combat-neutral startup. 
