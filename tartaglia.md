@@ -134,8 +134,8 @@ Performs a different attack depending on the stance in which it is cast.
 | Energy Refund | 20 |
 | CD | 15s |
 | GU | 2B |
-| Frames |  |
-| MV/s |  |
+| Frames | 52 |
+| MV/s | 611.3%/s |
 
 **Melee Stance: Light of Obliteration**
 
@@ -153,6 +153,8 @@ Performs a different attack depending on the stance in which it is cast.
 | CD | 15s |
 | Cast GU | 2B |
 | Riptide Blast GU | 2B |
+| Frames | 97 |
+| MV/s | 505.7%/s |
 {% endtab %}
 {% endtabs %}
 
