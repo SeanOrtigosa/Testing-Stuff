@@ -6,9 +6,9 @@ description: >-
 
 # Barbara
 
-## ![](../../.gitbook/assets/element_hydro.png) Barbara
+## ![](.gitbook/assets/element_hydro.png) Barbara
 
-![](../../.gitbook/assets/character_barbara_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/7138c5500b41d82bdc13ab31e27e49d847996214/.gitbook/assets/character_barbara_wish.png)
 
 ## **Base Stats**
 
@@ -219,4 +219,3 @@ When Barbara is in the party but not on the field, and one of your own party mem
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/hydro/barbara.md" %}

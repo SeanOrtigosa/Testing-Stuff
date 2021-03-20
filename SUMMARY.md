@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [Xingqiu](xingqiu.md)
 * [Tartaglia](tartaglia.md)
 * [Bennett](bennett.md)
 * [Mona](mona.md)

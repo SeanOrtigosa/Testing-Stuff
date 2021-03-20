@@ -11,9 +11,9 @@ description: >-
 Boesik\#3192 has a [comprehensive guide](https://docs.google.com/document/d/1pXlgCaYEpoizMIP9-QKlSkQbmRicWfrEoxb9USWD1Ro/edit) on Mona.
 {% endhint %}
 
-## ![](../../.gitbook/assets/element_hydro.png) Mona
+## ![](.gitbook/assets/element_hydro.png) Mona
 
-![](../../.gitbook/assets/character_mona_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/dd522cc5e9c45b14dff31e23b85579eba773cda5/.gitbook/assets/character_mona_wish.png)
 
 ## **Base Stats**
 
@@ -260,4 +260,3 @@ Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her 
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/hydro/mona.md" %}
