@@ -35,7 +35,10 @@ Perform up to 4 water splash attacks that deal Hydro DMG.
 | 2-Hit | 49.73% | 25 | 246.5%/s |
 | 3-Hit | 57.46% | 45 | 213.6%/s |
 | 4-Hit | 77.28% | 92 | 154.9%/s |
+| With Recovery | 237.45% | 123 | 115.8%/s |
 | GU | 1A | ~ | ~ |
+
+* Frame counts are done using M1 Spams.
 
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Hydro DMG.

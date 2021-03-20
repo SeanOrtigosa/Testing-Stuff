@@ -40,7 +40,10 @@ Perform up to 4 water splash attacks that deal Hydro DMG.
 | 2-Hit | 50.4% | 41 | 150.8%/s |
 | 3-Hit | 62.72% | 74 | 134.4%/s |
 | 4-Hit | 78.62% | 113 | 129.8%/s |
+| With Recovery | 244.38% | 154 | 95.2%/s |
 | GU | 1A | ~ | ~ |
+
+* Frame counts are done using M1 Spams.
 
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Hydro damage after a short casting time.
@@ -50,7 +53,7 @@ Consume 50 Stamina to deal AoE Hydro damage after a short casting time.
 | Charged Attack | 209.61% | 107 | 117.5% |
 | N2C | 312.65% | 141 | 133% |
 | N3C | 375.37% | 197 | 114.3% |
-| GU | 1A |  |  |
+| GU | 1A | ~ | ~ |
 
 * Charged Attack frame counts are done using Timed M1 Spams
 * N2C and N3C frame counts are done using the same method without Jump Cancels.
@@ -80,9 +83,9 @@ Mona dashes backwards before placing a Phantom of Fate down.
 
 | **Type** | **Talent 6%** | Frames | MV/s | **GU** |
 | :--- | :--- | :--- | :--- | :--- |
-| DoT | 44.8% |  |  | 1A |
-| Explosion DMG | 185.92% |  |  | 1A |
-| CD | 12s |  |  |  |
+| DoT | 44.8% | 60 | 44.8%/s | 1A |
+| Explosion DMG | 185.92% | ~ | ~ | 1A |
+| CD | 12s | ~ | ~ | ~ |
 {% endtab %}
 
 {% tab title="Illusory Torrent" %}
@@ -108,14 +111,14 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 * Applies an **Omen** to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.
 * Removes the **Illusory Bubble** dealing Hydro DMG in the process.
 
-| **Effect** | **Talent 6%** | **Frames** | **MV/s** | **GU** |
-| :--- | :--- | :--- | :--- | :--- |
-| Bubble Duration | 8s |  |  | 1A |
-| Bubble DMG | 619.39% |  |  | 2B |
-| Omen DMG Bonus | 52% \(scaling\) |  |  |  |
-| Omen Duration | 4.5s |  |  |  |
-| CD | 15s |  |  |  |
-| Energy Cost | 60 |  |  |  |
+| **Effect** | **Talent 6%** | **GU** |
+| :--- | :--- | :--- |
+| Bubble Duration | 8s | 1A |
+| Bubble DMG | 619.39% | 2B |
+| Omen DMG Bonus | 52% \(scaling\) | ~ |
+| Omen Duration | 4.5s | ~ |
+| CD | 15s | ~ |
+| Energy Cost | 60 | ~ |
 
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.
 * **C1's Reaction DMG Bonus** is not applied to the damage calculation.
