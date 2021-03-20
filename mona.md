@@ -36,21 +36,24 @@ Perform up to 4 water splash attacks that deal Hydro DMG.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 52.64% |  |  |
-| 2-Hit | 50.4% |  |  |
-| 3-Hit | 62.72% |  |  |
-| 4-Hit | 78.62% |  |  |
-| GU | 1A |  |  |
+| 1-Hit | 52.64% | 18 | 175.5%/s |
+| 2-Hit | 50.4% | 41 | 150.8%/s |
+| 3-Hit | 62.72% | 74 | 134.4%/s |
+| 4-Hit | 78.62% | 113 | 129.8%/s |
+| GU | 1A | ~ | ~ |
 
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Hydro damage after a short casting time.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 209.61% |  |  |
+| Charged Attack | 209.61% | 107 | 117.5% |
+| N2C | 312.65% | 141 | 133% |
+| N3C | 375.37% | 197 | 114.3% |
 | GU | 1A |  |  |
 
-* N2C with Jump Cancelling provides the greatest DPS for Mona’s attack string.
+* Charged Attack frame counts are done using Timed M1 Spams
+* N2C and N3C frame counts are done using the same method without Jump Cancels.
 
 **Plunge Attack**  
 Plunge from mid-air to the ground, dealing AoE Hydro DMG.
