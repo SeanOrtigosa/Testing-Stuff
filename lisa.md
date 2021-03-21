@@ -7,9 +7,9 @@ description: >-
 
 # Lisa
 
-## ![](.gitbook/assets/element_electro.png)Lisa
+## ![](https://github.com/Artesians/TCL/tree/f14f7d765c79a69f037fbc431afc1016f8f6511b/characters/electro/.gitbook/assets/element_electro.png)Lisa
 
-![](.gitbook/assets/lisa.png)
+![](../../.gitbook/assets/character_lisa_wish.png)
 
 ## Base Stats
 
@@ -220,8 +220,9 @@ Energy Cost: 80**
 
 ## External Links
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Lisa)\*\*\*\*
-* \*\*\*\*[**Lisa Mains Discord**](https://discord.gg/5SYy4MPPCt)\*\*\*\*
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Lisa)
+* [**Lisa Mains Discord**](https://discord.gg/5SYy4MPPCt)
 
-**Evidence Vault**
+**Evidence Vault**:
 
+{% page-ref page="../../evidence/characters/electro/lisa.md" %}
