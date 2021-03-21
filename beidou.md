@@ -8,9 +8,9 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 For a comprehensive Beidou guide, check out [ZΛNTO's guide.](https://docs.google.com/document/d/1LyhpgeCGv4GQ7MXuslgwb5lJgQ2GOrPMhIDSv2qARQo/edit?usp=sharing)
 {% endhint %}
 
-## ![](../../.gitbook/assets/element_electro.png) Beidou
+## ![](.gitbook/assets/element_electro.png) Beidou
 
-![](../../.gitbook/assets/character_beidou_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/2b49f33778f27d46a5454f201347d0593388560b/.gitbook/assets/character_beidou_wish.png)
 
 ## **Base Stats**
 
@@ -276,4 +276,3 @@ Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an A
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/electro/beidou.md" %}

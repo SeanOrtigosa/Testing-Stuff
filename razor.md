@@ -6,9 +6,9 @@ description: >-
 
 # Razor
 
-## ![](../../.gitbook/assets/element_electro.png) Razor
+## ![](.gitbook/assets/element_electro.png) Razor
 
-![](../../.gitbook/assets/character_razor_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/8a7db3120e2b33e9918b6122cfc73071f9547dc1/.gitbook/assets/character_razor_wish.png)
 
 ## **Base Stats**
 
@@ -238,6 +238,4 @@ Every 10s, Razor's sword charges up, causing the next Normal Attack to release l
 * [**Razor Mains Discord**](https://discord.gg/6qGZNQkWBX)
 
 **Evidence Vault:**
-
-{% page-ref page="../../evidence/characters/electro/razor.md" %}
 

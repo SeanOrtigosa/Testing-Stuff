@@ -9,7 +9,7 @@ description: >-
 
 ## ![](https://github.com/Artesians/TCL/tree/f14f7d765c79a69f037fbc431afc1016f8f6511b/characters/electro/.gitbook/assets/element_electro.png)Lisa
 
-![](../../.gitbook/assets/character_lisa_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/a290214f50d8efb24fa3544b6935908a09858189/.gitbook/assets/character_lisa_wish.png)
 
 ## Base Stats
 
@@ -225,4 +225,3 @@ Energy Cost: 80**
 
 **Evidence Vault**:
 
-{% page-ref page="../../evidence/characters/electro/lisa.md" %}
