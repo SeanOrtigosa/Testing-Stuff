@@ -31,21 +31,21 @@ Razor performs 4 consecutive strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 131.89% |  |  |
-| 2-Hit | 113.62% |  |  |
-| 3-Hit | 142.05% |  |  |
-| 4-Hit | 176.24% |  |  |
+| 1-Hit | 131.89% | 25 | 316.5%/s |
+| 2-Hit | 113.62% | 71 | 207.5%/s |
+| 3-Hit | 142.05% | 109 | 213.3%/s |
+| 4-Hit | 176.24% | 192 | 179.6%/s |
 
 * 3-hit cancel is the best DPS outside of Lighting Fang.
-* 4-hit cancel has the best has the best DPS under the effect of Lightning Fang, but the fourth hit has significant knockback so 3-hit may be optimal in certain situations.
+* 4-hit cancel has the best DPS under the effect of Lightning Fang, but the fourth hit has significant knockback so 3-hit may be optimal in certain situations.
 
 **Charged Attack**  
 Razor consumes 40 stamina a second to keep spinning. At the end, perform a more powerful slash.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Slash | 90.9% |  |  |
-| Final Slash | 164.38% |  |  |
+| Slash | 90.9% | 30 | 181.8%/s |
+| Final Slash | 164.38% | 29 | 340.1%/s |
 
 **Plunge**
 
