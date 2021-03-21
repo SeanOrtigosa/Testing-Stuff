@@ -10,6 +10,9 @@
 * [Qiqi](qiqi.md)
 * [Diona](diona.md)
 * [Lisa](lisa.md)
+* [Razor](razor.md)
+* [Beidou](beidou.md)
+* [Fischl](fischl.md)
 
 ## Evidences
 
