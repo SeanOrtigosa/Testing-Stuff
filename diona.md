@@ -6,9 +6,9 @@ description: >-
 
 # Diona
 
-## ![](../../.gitbook/assets/element_cryo.png) Diona
+## ![](.gitbook/assets/element_cryo.png) Diona
 
-![](../../.gitbook/assets/character_diona_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/bb098d474d4a1526139b473e54ece5bf6bf73372/.gitbook/assets/character_diona_wish.png)
 
 ## **Base Stats**
 
@@ -242,4 +242,3 @@ Characters within **Signature Mix**’s radius will gain the following effects:
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/cryo/diona.md" %}

@@ -6,9 +6,9 @@ description: >-
 
 # Qiqi
 
-## ![](../../.gitbook/assets/element_cryo.png) Qiqi
+## ![](.gitbook/assets/element_cryo.png) Qiqi
 
-![](../../.gitbook/assets/character_qiqi_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/78973758be0932d9a48a8cedb9e1a9e7c4e8e948/.gitbook/assets/character_qiqi_wish.png)
 
 ## Base Stats
 
@@ -228,4 +228,3 @@ Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nea
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/cryo/qiqi.md" %}
