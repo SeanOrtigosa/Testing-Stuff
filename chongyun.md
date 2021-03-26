@@ -46,6 +46,8 @@ Perform a powerful slash at the end of the sequence.
 | Final DMG | 147.94% | 29 | 306.1%/s |
 | Stamina Cost | 40/s | ~ | ~ |
 
+* All frame counts are done against Ruin Guards.
+
 **Plunge Attack**  
 Plunge from midair to strike the ground below dealing AoE DMG.
 
