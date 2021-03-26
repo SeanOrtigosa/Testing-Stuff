@@ -6,9 +6,21 @@ description: >-
 
 # Chongyun
 
-## ![](.gitbook/assets/element_cryo.png) Chongyun
+## ![](../../.gitbook/assets/element_cryo.png) Chongyun
 
-![](.gitbook/assets/chongyun.png)
+![](../../.gitbook/assets/character_chongyun_wish.png)
+
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | ATK% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 7236 | 147 | 427 | 12 |
+| 60+ | 7725 | 157 | 456 | 12 |
+| 70 | 8485 | 172 | 501 | 12 |
+| 70+ | 8974 | 182 | 530 | 18 |
+| 80 | 9734 | 198 | 575 | 18 |
+| 80+ | 10223 | 208 | 603 | 24 |
+| 90 | 10984 | 223 | 648 | 24 |
 
 ## **Attacks**
 
@@ -49,23 +61,30 @@ Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short 
 
 * Within the said field, all Sword, Claymore and Polearm-wielding character’s Normal and Charged Attacks will be infused with Cryo.
 
-| Effect | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 240.86% |  |  | 2B |
-| Infusion Duration | 2.5s |  |  | 1A |
-| Field Duration | 10s |  |  |  |
-| CD | 15s |  |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| Skill DMG | 240.86% |
+| Infusion Duration | 2.5s |
+| Field Duration | 10s |
+| Cooldown | 15s |
+| Particles | 3~4 \(1:1\) |
+| Cast GU | 2B |
+| Infused Attack GU | 1A |
+| Frames |  |
+| MV/s |  |
 {% endtab %}
 
 {% tab title="Spirit Blade: Cloud-Parting Star" %}
 Summon 3 giant **Spirit Blades** to fall down one by one after a short delay, dealing AoE Cryo DMG and launch opponents.
 
-| Effect | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Skill DMG | 199.36% \* 3 |  |  |
-| CD | 12s |  |  |
-| Energy Cost | 40 |  |  |
-| GU | 1A per hit |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| Skill DMG | 199.36% \* 3 |
+| CD | 12s |
+| Energy Cost | 40 |
+| GU | 1A per hit |
+| Frames |  |
+| MV/s |  |
 {% endtab %}
 {% endtabs %}
 
@@ -78,7 +97,7 @@ Summon 3 giant **Spirit Blades** to fall down one by one after a short delay, de
 When dispatched on an expedition on Liyue, time consumed is reduced by 25%
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ## Steady Breathing
 
 Sword, Claymore or Polearm-wielding characters within the field created by **Chonghua’s Layered Frost** have their Normal ATK SPD increased by 8%.
@@ -141,13 +160,66 @@ Increases the level of Chonghua’s Layered Frost by 3.
 {% endtab %}
 {% endtabs %}
 
+## **Full Talent Values**
+
+{% tabs %}
+{% tab title="Demonbane" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 101.75 | 110.70 | 119.66 | 128.61 | 138.38 | 148.15 |
+| 2-Hit DMG | 91.75 | 99.82 | 107.90 | 115.97 | 124.78 | 133.59 |
+| 3-Hit DMG | 116.75 | 127.02 | 137.30 | 147.57 | 158.78 | 169.99 |
+| 4-hit DMG | 147.13 | 160.07 | 173.02 | 185.97 | 200.09 | 214.21 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack Spinning DMG | 81.81 | 89.01 | 96.21 | 103.41 | 111.26 | 119.12 |
+| Charged Attack Final DMG | 147.94 | 160.96 | 173.97 | 186.99 | 201.20 | 215.40 |
+
+**Maximum Duration**: 5s
+
+**Stamina Cost**: 40
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 108.41 | 117.95 | 127.49 | 137.03 | 147.44 | 157.85 |
+| Low Plunge DMG | 216.78 | 235.86 | 254.93 | 274.01 | 294.82 | 315.63 |
+| High Plunge DMG | 270.77 | 294.60 | 318.42 | 342.25 | 368.25 | 394.24 |
+{% endtab %}
+
+{% tab title="Chonghua’s Layered Frost" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 240.86 | 258.06 | 275.26 | 292.47 | 309.67 | 326.88 | 344.08 | 365.59 |
+| Infusion Duration | 2.5 | 2.6 | 2.7 | 2.8 | 2.9 | 3 | 3 | 3 |
+
+**Field Duration**: 10s
+
+**Cooldown**: 15s
+{% endtab %}
+
+{% tab title="Spirit Blade: Cloud-Parting Star" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 199.36 | 213.60 | 227.84 | 242.08 | 256.32 | 270.56 | 284.80 | 302.60 |
+
+**Energy Cost**: 40
+
+**Cooldown**: 12s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/chongyun/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Chongyun)
-* [**Chongyun**](https://discord.gg/FT4ZFmgf8T)\*\*\*\*[ **Mains Discord**](https://discord.gg/FT4ZFmgf8T)\*\*\*\*
-
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
+* [**Chongyun**](https://discord.gg/FT4ZFmgf8T)[ **Mains Discord**](https://discord.gg/FT4ZFmgf8T)
 
 **Evidence Vault:**
 
+{% page-ref page="../../evidence/characters/cryo/chongyun.md" %}
