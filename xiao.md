@@ -6,9 +6,9 @@ description: >-
 
 # Xiao
 
-## ![](../../.gitbook/assets/element_anemo.png)Xiao
+## ![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/13b604fa98c8b4766e985162ba4e419503e9c363/.gitbook/assets/element_anemo.png)Xiao
 
-![](../../.gitbook/assets/character_xiao_wish.webp)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/13b604fa98c8b4766e985162ba4e419503e9c363/.gitbook/assets/character_xiao_wish.webp)
 
 ## Base Stats
 
@@ -208,4 +208,3 @@ While under the effect of Bane of All Evil, hitting at least 2 opponents with Xi
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/anemo/xiao.md" %}
