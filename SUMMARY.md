@@ -1,9 +1,13 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [Bennett](bennett.md)
+* [Kaeya](kaeya.md)
+* [Xiangling](xiangling.md)
+* [Venti](venti.md)
+* [Xinyan](xinyan.md)
 * [Xingqiu](xingqiu.md)
 * [Tartaglia](tartaglia.md)
-* [Bennett](bennett.md)
 * [Mona](mona.md)
 * [Barbara](barbara.md)
 * [Chongyun](chongyun.md)
