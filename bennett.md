@@ -6,9 +6,9 @@ description: >-
 
 # Bennett
 
-## ![](../../.gitbook/assets/element_pyro.png) Bennett
+## ![](.gitbook/assets/element_pyro.png) Bennett
 
-![](../../.gitbook/assets/character_bennett_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/7a9edeac0a04c6597ff4d9554dcc23b2b6efcb45/.gitbook/assets/character_bennett_wish.png)
 
 ## **Base Stats**
 
@@ -247,4 +247,3 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/pyro/bennett.md" %}

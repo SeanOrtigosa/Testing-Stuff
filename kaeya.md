@@ -4,9 +4,9 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 # Kaeya
 
-## ![](../../.gitbook/assets/element_cryo.png) Kaeya
+## ![](.gitbook/assets/element_cryo.png) Kaeya
 
-![](../../.gitbook/assets/character_kaeya_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/4cee25c8dc98f308efdfd997046e42c9c44cf36b/.gitbook/assets/character_kaeya_wish.png)
 
 ## **Base Stats**
 
@@ -207,4 +207,3 @@ Increases the level of **Glacial Waltz** by 3.
 
 **Evidence Vault**:
 
-{% page-ref page="../../evidence/characters/cryo/kaeya.md" %}

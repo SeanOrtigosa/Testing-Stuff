@@ -6,9 +6,9 @@ description: >-
 
 # Xinyan
 
-## ![](../../.gitbook/assets/element_pyro.png) Xinyan
+## ![](.gitbook/assets/element_pyro.png) Xinyan
 
-![](../../.gitbook/assets/character_xinyan_wish.webp)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/5cdc11529271ece4b419125530f986bd85e83557/.gitbook/assets/character_xinyan_wish.webp)
 
 ## **Base Stats**
 
@@ -233,3 +233,4 @@ Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally,
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
+

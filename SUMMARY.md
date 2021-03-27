@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [Xiao](xiao.md)
 * [Bennett](bennett.md)
 * [Kaeya](kaeya.md)
 * [Xiangling](xiangling.md)

@@ -6,9 +6,9 @@ description: >-
 
 # Venti
 
-## ![](../../.gitbook/assets/element_anemo.png)Venti
+## ![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/56a8a5551871e1223b54f78a4e6c459029d43dca/.gitbook/assets/element_anemo.png)Venti
 
-![](../../.gitbook/assets/character_venti_wish.webp)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/56a8a5551871e1223b54f78a4e6c459029d43dca/.gitbook/assets/character_venti_wish.webp)
 
 ## Base Stats
 
@@ -232,4 +232,3 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 
 **Evidence Vault**
 
-{% page-ref page="../../evidence/characters/anemo/venti.md" %}
