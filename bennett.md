@@ -6,9 +6,21 @@ description: >-
 
 # Bennett
 
-## ![](.gitbook/assets/element_pyro.png) Bennett
+## ![](../../.gitbook/assets/element_pyro.png) Bennett
 
-![](.gitbook/assets/bennett.png)
+![](../../.gitbook/assets/character_bennett_wish.png)
+
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | Energy Recharge% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 8168 | 126 | 508 | 13.30 |
+| 60+ | 8719 | 134 | 542 | 13.30 |
+| 70 | 9577 | 148 | 596 | 13.30 |
+| 70+ | 10129 | 156 | 630 | 20 |
+| 80 | 10987 | 169 | 684 | 20 |
+| 80+ | 11539 | 178 | 718 | 26.70 |
+| 90 | 12397 | 191 | 771 | 26.70 |
 
 ## **Attacks**
 
@@ -54,10 +66,10 @@ Bennett strikes once, dealing Pyro DMG.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E Press | 192.64% | 5s | 2U | 2 |  |  |
-| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1U | 3 |  |  |
-| Level 2 | 123.2% + 134.4% | 10s | 2 x 1U | 3 |  |  |
-| Explosion |  |  | 1U |  |  |  |
+| E Press | 192.64% | 5s | 2B | 2 |  |  |
+| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 |  |  |
+| Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 |  |  |
+| Explosion |  |  | 1A |  |  |  |
 
 * Max hold duration is x seconds, after which Bennett will use a Level 2 Passion Overload by default. 
 * Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
@@ -80,8 +92,8 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 | Duration | 12s |
 | Cooldown | 15s \(non-scaling\) |
 | Energy Cost | 60 |
-| GU | 2U |
-| Imbue | 1U |
+| GU | 2B |
+| Imbue | 1A |
 | Frames |  |
 
 * Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK bonus.
@@ -99,7 +111,7 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Rekindle
 
 Decrease passion overload’s cooldown by 20%.
@@ -163,13 +175,76 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Strike of Fortune" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 64.75 | 70.45 | 76.15 | 81.84 | 88.06 | 94.28 |
+| 2-Hit DMG | 62.13 | 67.59 | 73.06 | 78.53 | 84.49 | 90.45 |
+| 3-Hit DMG | 79.38 | 86.36 | 93.35 | 100.33 | 107.95 | 115.57 |
+| 4-Hit DMG | 86.75 | 94.38 | 102.02 | 109.65 | 117.98 | 126.31 |
+| 5-Hit DMG | 104.50 | 113.70 | 122.89 | 132.09 | 142.12 | 152.15 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 81.25 | 88.40 | 95.55 | 102.70 | 110.50 | 118.30 |
+| Charged Attack 2 DMG | 88.25 | 96.02 | 103.78 | 111.55 | 120.02 | 128.49 |
+
+**Stamina Cost**: 20
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
+| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
+| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+{% endtab %}
+
+{% tab title="Passion Overload" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Press DMG | 192.64 | 206.40 | 220.16 | 233.92 | 247.68 | 261.44 | 275.20 | 292.40 |
+| Charge Level 1 Hit 1 DMG | 117.60 | 126 | 134.40 | 142.80 | 151.20 | 159.60 | 168 | 178.50 |
+| Charge Level 1 Hit 2 DMG | 128.80 | 138 | 147.20 | 156.40 | 165.60 | 174.80 | 184 | 195.50 |
+| Charge Level 2 Hit 1 DMG | 123.20 | 132 | 140.80 | 149.60 | 158.40 | 167.20 | 176 | 187 |
+| Charge Level 2 Hit 2 DMG | 134.40 | 144 | 153.60 | 163.20 | 172.80 | 182.40 | 192 | 204 |
+| Explosion DMG | 184.80 | 198 | 211.20 | 224.40 | 237.60 | 250.80 | 264 | 280.50 |
+
+**Press Cooldown**: 5s
+
+**Charge Level 1 Cooldown**: 7.5s
+
+**Charge Level 2 Cooldown**: 10s
+{% endtab %}
+
+{% tab title="Fantastic Voyage" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 325.92 | 349.20 | 372.48 | 395.76 | 419.04 | 442.32 | 465.60 | 494.70 |
+| Continuous Regeneration Per Second Scaling | 8.4 | 9 | 9.6 | 10.2 | 10.8 | 11.4 | 12 | 12.75 |
+| Continuous Regeneration Per Second | 914 | 996 | 1083 | 1174 | 1270 | 1371 | 1477 | 1588 |
+| ATK Bonus Ratio | 78.40 | 84 | 89.60 | 95.20 | 100.80 | 106.40 | 112 | 119 |
+
+**Energy Cost**: 60
+
+**Duration**: 12s
+
+**Cooldown**: 15s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/bennett/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bennett)
 * [**Bennett Mains Discord**](https://discord.gg/qrjeEyejsd)
 
-**Tags:** [Field Buffs](https://library.keqingmains.com/mechanics/combat/field-buffs), [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 
+{% page-ref page="../../evidence/characters/pyro/bennett.md" %}
